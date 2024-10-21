@@ -1,0 +1,455 @@
+{
+  "week2_questions": [
+    {
+      "question": "What is the purpose of version control systems like Git?",
+      "options": [
+        "To track changes in code and collaborate with others.",
+        "To compile and run Java programs.",
+        "To test and debug code.",
+        "To manage libraries and dependencies."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is a repository in Git?",
+      "options": [
+        "A collection of files and their revision history.",
+        "A backup of code files.",
+        "A tool to manage dependencies.",
+        "A type of loop in programming."
+      ],
+      "answer": 1,
+      "isDefinition": true
+    },
+    {
+      "question": "Explain the difference between git add and git commit.",
+      "options": [
+        "git add stages changes, while git commit saves them to the history.",
+        "git add pulls changes from a remote repository, while git commit merges them.",
+        "git add deletes files, while git commit tracks new ones.",
+        "git add creates a branch, while git commit merges branches."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What does the git clone command do?",
+      "options": [
+        "Creates a local copy of a remote repository.",
+        "Stages changes for commit.",
+        "Merges branches.",
+        "Pushes changes to a remote repository."
+      ],
+      "answer": 2,
+      "isDefinition": false
+    },
+    {
+      "question": "What is the primary purpose of Maven in a project?",
+      "options": [
+        "To manage project dependencies, builds, and documentation.",
+        "To manage version control.",
+        "To run loops in Java.",
+        "To help with debugging."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "Which of the following commands merges two branches in Git?",
+      "options": [
+        "git merge",
+        "git commit",
+        "git add",
+        "git pull"
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "What does the git status command display?",
+      "options": [
+        "The current state of your working directory and staging area.",
+        "The commit history.",
+        "The branches available in the repository.",
+        "The merge conflicts in your repository."
+      ],
+      "answer": 1,
+      "isDefinition": true
+    },
+    {
+      "question": "Explain what an infinite loop is in programming.",
+      "options": [
+        "An infinite loop is a loop that continues to execute indefinitely because its termination condition is never met.",
+        "A loop that terminates after a certain number of iterations.",
+        "A loop that switches between two different variables.",
+        "A loop that prints random values indefinitely."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "How do you initialize a new Git repository?",
+      "options": [
+        "git init",
+        "git commit",
+        "git clone",
+        "git merge"
+      ],
+      "answer": 2,
+      "isDefinition": false
+    },
+    {
+      "question": "What is the purpose of a while loop in Java?",
+      "options": [
+        "To repeatedly execute a block of code as long as a condition is true.",
+        "To execute a block of code exactly once.",
+        "To execute code based on user input.",
+        "To iterate through elements in a collection."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "Explain the function of the return statement in Java methods.",
+      "options": [
+        "The return statement terminates the method and sends a value back to the caller.",
+        "It initializes variables in the method.",
+        "It adds elements to an array.",
+        "It calls another method."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What does the git push command do?",
+      "options": [
+        "Updates the remote repository with local changes.",
+        "Pulls changes from the remote repository.",
+        "Stashes local changes.",
+        "Deletes a remote branch."
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "Which of the following is true about Maven?",
+      "options": [
+        "It can automatically manage dependencies and generate documentation.",
+        "It is a version control system.",
+        "It is used for debugging Java programs.",
+        "It only works for small projects."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is a method in Java?",
+      "options": [
+        "A block of code that can be called by its name and can perform a specific task.",
+        "A loop that iterates over numbers.",
+        "A tool used for version control.",
+        "A command to merge branches in Git."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "Which of the following commands fetches changes from a remote repository to a local one?",
+      "options": [
+        "git pull",
+        "git push",
+        "git commit",
+        "git branch"
+      ],
+      "answer": 2,
+      "isDefinition": false
+    },
+    {
+      "question": "What does the term 'dependency management' refer to in Maven?",
+      "options": [
+        "Managing external libraries and ensuring their versions are compatible.",
+        "Tracking changes to a project.",
+        "Handling merge conflicts.",
+        "Running Java programs."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is the function of the break statement in Java loops?",
+      "options": [
+        "It terminates the loop and transfers control to the next statement.",
+        "It pauses the loop temporarily.",
+        "It restarts the loop from the beginning.",
+        "It increments the loop counter by one."
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "Explain the purpose of debugging in software development.",
+      "options": [
+        "Debugging is the process of identifying and resolving errors in the source code.",
+        "It is used to write new code.",
+        "It manages project dependencies.",
+        "It is a process of writing tests."
+      ],
+      "answer": 2,
+      "isDefinition": true
+    },
+    {
+      "question": "Which Maven command is used to compile a project?",
+      "options": [
+        "mvn compile",
+        "mvn clean",
+        "mvn test",
+        "mvn package"
+      ],
+      "answer": 3,
+      "isDefinition": false
+    },
+    {
+      "question": "What is the purpose of a method parameter in Java?",
+      "options": [
+        "It allows passing data to the method when it is called.",
+        "It defines the return type of the method.",
+        "It specifies the loop counter.",
+        "It imports external libraries."
+      ],
+      "answer": 1,
+      "isDefinition": true
+    },
+    {
+      "question": "What happens when you forget to increment a counter in a while loop?",
+      "options": [
+        "It creates an infinite loop that runs indefinitely.",
+        "The loop executes only once.",
+        "The loop skips every second iteration.",
+        "The loop throws a compilation error."
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "What is a StackOverflowError in Java?",
+      "options": [
+        "It is a runtime error that occurs when the call stack exceeds its limit due to excessive recursion.",
+        "It is a compiler error that occurs when a variable is not initialized.",
+        "It is an error that occurs when there is a division by zero.",
+        "It is an exception that occurs when a loop runs indefinitely."
+      ],
+      "answer": 2,
+      "isDefinition": true
+    },
+    {
+      "question": "What does the substring() method do in Java?",
+      "options": [
+        "It extracts a portion of a string.",
+        "It reverses a string.",
+        "It concatenates two strings.",
+        "It converts a string to uppercase."
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "Explain what a method call stack is.",
+      "options": [
+        "A data structure used to store method calls in the order they are made, following the Last In First Out (LIFO) principle.",
+        "A tool for managing project dependencies.",
+        "A way to track changes in a Git repository.",
+        "A technique to print the contents of a string."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is a POM file in Maven?",
+      "options": [
+        "A Project Object Model file that contains metadata and configuration for building the project.",
+        "A file that tracks code changes in a repository.",
+        "A file that contains method definitions.",
+        "A tool for debugging Java programs."
+      ],
+      "answer": 1,
+      "isDefinition": true
+    },
+    {
+      "question": "What does the term 'branch' refer to in Git?",
+      "options": [
+        "A separate line of development in a project.",
+        "A method for merging code.",
+        "A command used to fetch changes.",
+        "A type of loop in Java."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "Which Git command stages changes for commit?",
+      "options": [
+        "git add",
+        "git commit",
+        "git push",
+        "git pull"
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "What is the purpose of a for loop in Java?",
+      "options": [
+        "To repeatedly execute a block of code a specific number of times.",
+        "To repeat code until a condition is met.",
+        "To iterate over elements in an array.",
+        "To return a value from a method."
+      ],
+      "answer": 2,
+      "isDefinition": true
+    },
+    {
+      "question": "Explain the purpose of method overloading in Java.",
+      "options": [
+        "Method overloading allows multiple methods with the same name but different parameter lists.",
+        "It allows a method to call another method.",
+        "It enables a method to run indefinitely.",
+        "It prevents recursion in methods."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What does the method charAt() do in Java?",
+      "options": [
+        "Returns the character at a specified index in a string.",
+        "Returns the length of a string.",
+        "Concatenates two strings.",
+        "Compares two strings lexicographically."
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "What does the term 'commit' mean in Git?",
+      "options": [
+        "It saves the changes made to the local repository.",
+        "It merges two branches together.",
+        "It stages changes for future commit.",
+        "It removes a file from the repository."
+      ],
+      "answer": 1,
+      "isDefinition": true
+    },
+    {
+      "question": "What does the break statement do in a switch case in Java?",
+      "options": [
+        "It terminates the switch block and prevents fall-through to the next case.",
+        "It increments the loop counter.",
+        "It jumps to the default case.",
+        "It restarts the switch block."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What happens when git merge encounters conflicts?",
+      "options": [
+        "The developer must manually resolve conflicts before the merge can be completed.",
+        "The merge completes automatically.",
+        "The conflicting changes are ignored.",
+        "The merge fails permanently."
+      ],
+      "answer": 2,
+      "isDefinition": false
+    },
+    {
+      "question": "Explain the use of the Scanner class in Java.",
+      "options": [
+        "The Scanner class is used to read user input from various sources such as keyboard or file.",
+        "It prints messages to the console.",
+        "It is used to open a file for writing.",
+        "It manages project dependencies."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is the difference between git pull and git fetch?",
+      "options": [
+        "git pull updates the local branch, while git fetch only downloads changes without applying them.",
+        "git pull stages changes, while git fetch commits them.",
+        "git pull deletes local changes, while git fetch preserves them.",
+        "git pull merges branches, while git fetch reverts changes."
+      ],
+      "answer": 1,
+      "isDefinition": true
+    },
+    {
+      "question": "What is the role of Math.max() in Java?",
+      "options": [
+        "It returns the greater of two numbers.",
+        "It calculates the sum of two numbers.",
+        "It multiplies two numbers.",
+        "It finds the minimum value in an array."
+      ],
+      "answer": 2,
+      "isDefinition": false
+    },
+    {
+      "question": "Explain the concept of recursion in Java.",
+      "options": [
+        "Recursion is a process where a method calls itself until a base condition is met.",
+        "Recursion is a process where multiple methods call each other in a loop.",
+        "Recursion is used to break out of loops.",
+        "Recursion is a method to iterate over collections."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is the purpose of the mvn package command in Maven?",
+      "options": [
+        "It creates a deployable package (like a JAR or WAR) of the project.",
+        "It deletes old files from the repository.",
+        "It runs tests on the project.",
+        "It installs Maven on your machine."
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "What is the output of System.out.println(Math.max(5, 10)); in Java?",
+      "options": [
+        "10",
+        "5",
+        "15",
+        "0"
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "Which Git command creates a new branch?",
+      "options": [
+        "git branch",
+        "git init",
+        "git commit",
+        "git merge"
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "What does the method nextInt() do in Java?",
+      "options": [
+        "It reads the next integer input from the user.",
+        "It prints an integer to the console.",
+        "It increments an integer by one.",
+        "It checks if an integer is even."
+      ],
+      "answer": 0,
+      "isDefinition": false
+    }
+  ]
+}

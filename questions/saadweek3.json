@@ -1,0 +1,322 @@
+{
+    "week3_questions": [
+        {
+            "question": "In project identification, why might a feasibility analysis fail to provide a complete picture of project risks?",
+            "options": [
+                "It focuses solely on the economic aspects of the project",
+                "It does not fully address operational challenges that may arise during implementation",
+                "It assumes that technical challenges are the only factors impacting success",
+                "It provides unrealistic estimates of the project’s overall cost"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "A 'jelled team' is often considered a high-performing team. Which factor most critically contributes to their performance?",
+            "options": [
+                "Clear individual responsibilities with minimal overlap",
+                "A sense of shared ownership and collaboration that enhances creativity and problem-solving",
+                "A strong hierarchical structure with defined roles",
+                "The team's ability to work in isolation without external interference"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "What would be the most significant risk if a project sponsor does not maintain active involvement throughout the system analysis phase?",
+            "options": [
+                "The technical team may fail to meet deadlines",
+                "The project may drift away from providing the intended business value",
+                "User requirements may be misunderstood during development",
+                "The final system will not be used by the intended stakeholders"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Agile estimation methods are often preferred in projects with high uncertainty. Which of the following is a key reason why Agile excels in such environments?",
+            "options": [
+                "Agile avoids the need for long-term project planning",
+                "Agile relies on detailed task decomposition from the start",
+                "Agile allows for continuous reevaluation of estimates and adjustments based on changing circumstances",
+                "Agile eliminates the need for any form of cost tracking"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Why is it important to consider team members' ability to handle conflict when staffing a project team?",
+            "options": [
+                "It ensures that the project stays under budget",
+                "It increases the likelihood that conflicts will not derail project progress",
+                "It reduces the need for external consultants",
+                "It minimizes the need for frequent team meetings"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which scenario most clearly illustrates an intangible business value of a system?",
+            "options": [
+                "A reduction in staffing costs by 15%",
+                "An improvement in user engagement and customer loyalty due to a smoother user experience",
+                "A faster production process reducing cycle time by 20%",
+                "An increase in sales revenue as a result of system automation"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "In portfolio management, how does balancing risk and returns across projects contribute to strategic goals?",
+            "options": [
+                "It ensures that all projects have equal budget allocation",
+                "It allows for a mix of high-risk, high-reward and low-risk, steady projects, maximizing overall portfolio success",
+                "It eliminates all risky projects from the portfolio",
+                "It ensures that only low-risk projects are selected for implementation"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which of the following would likely lead to incomplete system requirements if left out of a system request?",
+            "options": [
+                "Business needs driving the project",
+                "A clear statement of business value",
+                "Hardware specifications required for system deployment",
+                "Constraints such as budget and timeline"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "What makes frequent stakeholder feedback critical in Agile methodologies during system analysis?",
+            "options": [
+                "It reduces the cost of development",
+                "It ensures that evolving user needs are incorporated into the system’s development",
+                "It allows developers to focus solely on code implementation",
+                "It minimizes the need for user involvement after the initial project scoping"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "In what way does 'ownership of the product' within a jelled team contribute to the team’s long-term performance?",
+            "options": [
+                "It places financial responsibility on the team for the success of the project",
+                "It instills a sense of responsibility and pride in the final product, leading to higher quality outcomes",
+                "It allows the project manager to dictate all decisions and outcomes",
+                "It ensures that technical expertise is evenly distributed across the team"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "In project management, what is the biggest challenge if stakeholders are not involved early in the project?",
+            "options": [
+                "The project may exceed the budget",
+                "User requirements may not be clearly defined, leading to rework later",
+                "The technical design may become too complex",
+                "There may be too much documentation to manage"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which factor most contributes to the success of a project team using Agile methodologies?",
+            "options": [
+                "Strict adherence to the project scope",
+                "Continuous communication and collaboration within the team",
+                "Maintaining a detailed and fixed project plan",
+                "Assigning each team member specialized tasks with no overlap"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "In system analysis, what is the most critical outcome of failing to perform a thorough feasibility study?",
+            "options": [
+                "The project may be delayed",
+                "Key risks may be overlooked, resulting in project failure",
+                "The system may not meet technical specifications",
+                "The system design may require excessive rework"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is a common risk if user requirements are not well-documented during the analysis phase?",
+            "options": [
+                "The system will be over-budget",
+                "The system may fail to meet user expectations",
+                "The project timeline will be extended",
+                "Testing will be incomplete"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "How does frequent feedback from stakeholders improve project outcomes in Agile development?",
+            "options": [
+                "It increases the project’s budget",
+                "It ensures that the evolving needs of users are integrated into the system",
+                "It reduces the time needed for testing",
+                "It allows the team to skip the design phase"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which scenario best demonstrates the value of risk management in a project portfolio?",
+            "options": [
+                "Selecting only low-risk projects to minimize potential losses",
+                "Balancing high-risk, high-reward projects with lower-risk initiatives",
+                "Prioritizing projects with the lowest budget to reduce costs",
+                "Eliminating all high-risk projects from consideration"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Why is it important for team members to have a sense of ownership over the final product?",
+            "options": [
+                "It motivates them to finish the project ahead of schedule",
+                "It fosters a higher level of commitment and quality in their work",
+                "It allows the project manager to delegate more tasks",
+                "It reduces the need for external feedback"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "In Agile project management, what is the primary benefit of conducting daily stand-up meetings?",
+            "options": [
+                "To review completed documentation",
+                "To ensure team members are aligned and address any blockers quickly",
+                "To report on budget changes",
+                "To gather new requirements from stakeholders"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the greatest risk when skipping the Analysis phase of the SDLC?",
+            "options": [
+                "The system may not meet the business needs",
+                "The system will not be completed on time",
+                "The system will exceed the budget",
+                "The system will not be tested thoroughly"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Why is stakeholder engagement critical during the system analysis phase?",
+            "options": [
+                "To ensure the technical team completes their tasks",
+                "To ensure the system meets the business and user needs",
+                "To reduce the cost of development",
+                "To streamline the implementation phase"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which factor most contributes to effective conflict resolution within a project team?",
+            "options": [
+                "Avoiding conflicts by assigning tasks individually",
+                "Clear communication and collaboration among team members",
+                "Strong leadership from a project manager",
+                "Keeping team members isolated from each other"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "How does a well-documented system request contribute to project success?",
+            "options": [
+                "It provides a detailed project timeline",
+                "It ensures that all business needs, constraints, and objectives are clearly defined",
+                "It simplifies the system’s design",
+                "It eliminates the need for stakeholder involvement"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which business benefit is considered 'intangible' in a project evaluation?",
+            "options": [
+                "A reduction in operational costs",
+                "An improvement in customer satisfaction",
+                "An increase in sales revenue",
+                "A decrease in production time"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Why is 'ownership of the product' an important factor in a jelled team's long-term performance?",
+            "options": [
+                "It fosters accountability and pride in delivering high-quality outcomes",
+                "It ensures that all team members specialize in one area",
+                "It allows the team to avoid conflicts",
+                "It limits the need for external feedback"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the most significant risk of incomplete system requirements during the Analysis phase?",
+            "options": [
+                "The system may need to be redesigned later",
+                "The project will be under-budget",
+                "The technical team may not be able to complete the system",
+                "The system will not be tested properly"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "How does balancing risk and return in a project portfolio align with business goals?",
+            "options": [
+                "By ensuring only low-risk projects are selected",
+                "By allowing for a mix of high-risk, high-reward projects and steady, low-risk projects",
+                "By avoiding all risky projects",
+                "By focusing on reducing project budgets"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the main reason for using Agile estimation methods in uncertain projects?",
+            "options": [
+                "They provide fixed estimates at the start",
+                "They allow for continuous adjustments and reevaluation based on feedback and changes",
+                "They eliminate the need for long-term planning",
+                "They avoid the use of task decomposition"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Why is it important for project teams to handle conflict effectively?",
+            "options": [
+                "It ensures that team members meet their deadlines",
+                "It prevents conflicts from impacting project progress and outcomes",
+                "It eliminates the need for project documentation",
+                "It simplifies communication with stakeholders"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "In portfolio management, how does balancing high-risk and low-risk projects contribute to overall success?",
+            "options": [
+                "It minimizes potential losses",
+                "It maximizes the potential for both steady and breakthrough successes",
+                "It eliminates all high-risk projects",
+                "It reduces the complexity of managing multiple projects"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "What is a key reason why Agile teams conduct retrospectives after each sprint?",
+            "options": [
+                "To evaluate completed work",
+                "To gather user feedback",
+                "To reflect on team performance and identify areas for improvement",
+                "To finalize the next sprint’s tasks"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        }
+    ]
+}

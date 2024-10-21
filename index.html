@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kviz</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+
+    <div id="question-counter">1/30</div>
+    <div style="text-align: center; margin-top: 50px;">
+        <h1 id="subject-title">Izaberi Predmet</h1>
+        <select id="subject-select">
+        <option value="">-- Odaberi predmet --</option>
+        <option value="oop">OOP</option>
+        <option value="co">CO</option>
+        <option value="cn">CN</option>
+        <option value="hci">HCI</option>
+        <option value="discmath">DisMath</option>
+        <option value="saad">SAAD</option>
+      </select>
+      
+        <div style="margin-top: 20px;">
+          <h1 id="week-title">Izaberi Sedmicu</h1>
+          <select id="week-select" disabled>
+            <option value="">-- Odaberi sedmicu --</option>
+          </select>
+        </div>
+      
+        <button id="start-quiz" disabled style="margin-top: 30px;">Pokreni Kviz</button>
+      </div>
+      
+      <div id="quiz-container" style="display: none;">
+        <h2 id="question"></h2>
+        <div id="options"></div>
+        <button id="next-question" style="display: none;">Dalje</button>
+        <button id="cancel-quiz" style="margin-top: 20px;">Prekini Kviz</button>
+      </div>
+      
+
+      <div id="result-container" style="display: none; text-align: center;">
+        <h2 id="score-text"></h2>  <!-- Prikaz bodova -->
+        <button id="restart-quiz">Ponovo pokreni kviz</button>
+    </div>
+    
+      
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

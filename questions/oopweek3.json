@@ -1,0 +1,323 @@
+{
+  "week3_questions": [
+    {
+      "question": "What is the main difference between integers and strings in Java?",
+      "options": [
+        "Strings have methods, integers do not.",
+        "Integers have methods, strings do not.",
+        "Both integers and strings have methods.",
+        "Neither integers nor strings have methods."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "Define what a method is in object-oriented programming.",
+      "options": [
+        "A function associated with an object that operates on the data within that object.",
+        "A variable inside a class that stores data.",
+        "A way to initialize the state of an object.",
+        "An operator used to compare two objects."
+      ],
+      "answer": 1,
+      "isDefinition": true
+    },
+    {
+      "question": "What is the primary purpose of the 'new' keyword in Java?",
+      "options": [
+        "To declare a variable.",
+        "To create a new object.",
+        "To create a new method.",
+        "To define a new class."
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "Which of the following is NOT a method of the Scanner class?",
+      "options": [
+        "nextLine()",
+        "nextInt()",
+        "length()",
+        "nextDouble()"
+      ],
+      "answer": 2,
+      "isDefinition": false
+    },
+    {
+      "question": "Explain what an ArrayList is and its advantages in Java.",
+      "options": [
+        "An ArrayList is a resizable array that allows storing objects dynamically and provides methods to manipulate its size and contents.",
+        "An ArrayList is a collection of primitive types stored in a fixed-length container.",
+        "An ArrayList is a data structure that allows accessing elements using indices only.",
+        "An ArrayList is a static array of objects with a fixed size."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What does Collections.sort() do in Java?",
+      "options": [
+        "Sorts a list in natural order.",
+        "Reverses the elements of a list.",
+        "Randomizes the elements in a list.",
+        "Removes duplicate elements in a list."
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "Define an enum and explain its usage in Java.",
+      "options": [
+        "An enum is a special class representing a fixed set of constants that can be used when a variable can only take one out of a small set of possible values.",
+        "An enum is a list of methods that can be inherited by any class.",
+        "An enum is a list of variables that can change dynamically at runtime.",
+        "An enum is a database schema used to define relationships between tables."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is the purpose of a PreparedStatement in database connections?",
+      "options": [
+        "To prevent SQL injection by precompiling the SQL query and binding parameters securely.",
+        "To speed up query execution by caching the query results.",
+        "To handle large datasets by creating a read-only result set.",
+        "To manage multiple database connections at once."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is a ResultSet in Java?",
+      "options": [
+        "A table of data representing the result of a database query.",
+        "A connection to a remote database.",
+        "An operation that modifies data in a table.",
+        "A method to execute a query."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "Explain what the next() method does in the context of a ResultSet.",
+      "options": [
+        "Moves the cursor forward one row in the ResultSet and returns true if the new current row is valid.",
+        "Closes the ResultSet.",
+        "Moves the cursor to the previous row in the ResultSet.",
+        "Fetches all rows in the ResultSet."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What does the map() method do in Java streams?",
+      "options": [
+        "Transforms each element of the stream into another object based on a specified function.",
+        "Filters the elements of the stream.",
+        "Sorts the elements of the stream.",
+        "Collects the elements of the stream into a list."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "Define what the for-each loop does in Java.",
+      "options": [
+        "It allows iterating over elements in a collection without using an explicit iterator or counter.",
+        "It modifies each element in a collection based on a given function.",
+        "It filters out elements in a list based on a condition.",
+        "It allows reversing the order of elements in a list."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is the function of Collections.shuffle() in Java?",
+      "options": [
+        "Randomly rearranges the elements of a list.",
+        "Sorts a list in ascending order.",
+        "Removes duplicate elements from a list.",
+        "Reverses the order of elements in a list."
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "What is the purpose of the nextGaussian() method in the Random class?",
+      "options": [
+        "Generates a random number following a Gaussian (normal) distribution.",
+        "Generates a random integer between two values.",
+        "Generates a random string of characters.",
+        "Generates a sequence of random boolean values."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is a stream in Java?",
+      "options": [
+        "A sequence of objects that supports various methods for processing data.",
+        "A collection of objects stored in memory.",
+        "A data structure that holds all values in a program.",
+        "A method that converts a list into an array."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "How does a Collection differ from a Stream in Java?",
+      "options": [
+        "A Collection holds data in memory, whereas a Stream processes data on demand.",
+        "A Stream holds data in memory, whereas a Collection processes data on demand.",
+        "Both are data structures that hold and process data the same way.",
+        "Collections use more memory than Streams."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is the purpose of an enum in Java?",
+      "options": [
+        "To define a set of constants that do not change.",
+        "To create multiple instances of a class.",
+        "To store multiple values in an ordered list.",
+        "To define the methods that must be implemented by a class."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is the difference between ArrayList and LinkedList in Java?",
+      "options": [
+        "ArrayList provides fast random access, whereas LinkedList allows constant-time insertions and deletions.",
+        "LinkedList provides fast random access, whereas ArrayList allows constant-time insertions and deletions.",
+        "ArrayList is slower for random access compared to arrays, whereas LinkedList uses a tree structure.",
+        "LinkedList can only store primitive types, whereas ArrayList can store both objects and primitive types."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "Define the term 'PreparedStatement' in the context of database connections.",
+      "options": [
+        "A PreparedStatement is a precompiled SQL statement that allows for efficient execution and protection against SQL injection attacks.",
+        "A PreparedStatement is a SQL statement that connects two tables in a database.",
+        "A PreparedStatement is used to handle transactions within a database connection.",
+        "A PreparedStatement is a stored procedure that can execute multiple queries at once."
+      ],
+      "answer": 0,
+      "isDefinition": true
+    },
+    {
+      "question": "What is the output of `if (\"hello\" == \"he\" + \"llo\")`?",
+      "options": [
+        "True",
+        "False",
+        "Compilation Error",
+        "Runtime Exception"
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "What will be the result of the following?\n`String s1 = \"abc\";\nString s2 = \"a\" + \"bc\";\nif (s1 == s2)`",
+      "options": [
+        "True",
+        "False",
+        "Compilation Error",
+        "Runtime Exception"
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "What is the output of `if (\"a\" + \"b\" + \"c\" == \"abc\")` during runtime concatenation?",
+      "options": [
+        "True",
+        "False",
+        "Compilation Error",
+        "Runtime Exception"
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "What is the output of the following?\n`String a = \"abc\";\nString b = new String(\"abc\").intern();\nif (a == b)`",
+      "options": [
+        "True",
+        "False",
+        "Compilation Error",
+        "Runtime Exception"
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "What is the output of `if ((\"a\" + \"b\").intern() == (\"a\" + \"b\"))`?",
+      "options": [
+        "True",
+        "False",
+        "Compilation Error",
+        "Runtime Exception"
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "What is the result of the following code?\n`String a = \"abc\";\nString b = \"a\" + \"bc\";\nSystem.out.println(a.equals(b) && a == b)`",
+      "options": [
+        "True",
+        "False",
+        "Compilation Error",
+        "Runtime Exception"
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "What happens when you reflectively modify the value of a string?\n`Field f = String.class.getDeclaredField(\"value\");\nf.setAccessible(true);\nString str = \"immutable\";\nf.set(str, \"modified\".toCharArray());\nSystem.out.println(str);`",
+      "options": [
+        "immutable",
+        "modified",
+        "Throws IllegalAccessException",
+        "Throws NoSuchFieldException"
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "What happens if you modify the `String` using reflection and print `\"constant\".equals(\"modified\")` after the modification?",
+      "options": [
+        "True",
+        "False",
+        "Compilation Error",
+        "Runtime Exception"
+      ],
+      "answer": 1,
+      "isDefinition": false
+    },
+    {
+      "question": "What happens if you concatenate string literals during runtime?\n`String s1 = \"Hello\";\nString s2 = \"He\" + \"llo\";\nif (s1 == s2)`",
+      "options": [
+        "True",
+        "False",
+        "Compilation Error",
+        "Runtime Exception"
+      ],
+      "answer": 0,
+      "isDefinition": false
+    },
+    {
+      "question": "What will be the result of `if (\"abc\".replace('a', 'x') == \"xbc\")`?",
+      "options": [
+        "True",
+        "False",
+        "Compilation Error",
+        "Runtime Exception"
+      ],
+      "answer": 1,
+      "isDefinition": false
+    }
+  ]
+}

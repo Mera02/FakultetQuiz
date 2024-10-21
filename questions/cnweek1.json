@@ -1,0 +1,850 @@
+{
+    "week1_questions": [
+      {
+        "question": "What does the term 'end system' refer to in the context of the Internet?",
+        "options": [
+          "A router in the network core",
+          "A packet switch",
+          "A device like a computer or phone connected to the Internet",
+          "A physical transmission medium"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is NOT a layer in the TCP/IP protocol stack?",
+        "options": [
+          "Physical Layer",
+          "Transport Layer",
+          "Application Layer",
+          "Device Layer"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which of the following protocols is responsible for ensuring reliable data transmission?",
+        "options": [
+          "UDP",
+          "HTTP",
+          "TCP",
+          "DNS"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What is the role of a router in the network?",
+        "options": [
+          "It connects end systems to the Internet",
+          "It forwards packets between different networks based on IP addresses",
+          "It provides encryption for secure communication",
+          "It assigns IP addresses to end systems"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What does the term 'propagation delay' refer to?",
+        "options": [
+          "The time taken to transmit all bits of a packet",
+          "The time required for a packet to wait in a queue",
+          "The time taken for a bit to travel from one router to another",
+          "The time required to process the packet at a router"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is an example of a guided transmission medium?",
+        "options": [
+          "Fiber optics",
+          "Wi-Fi",
+          "Satellite communication",
+          "4G LTE"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which device operates at the Data Link Layer to forward frames based on MAC addresses?",
+        "options": [
+          "Router",
+          "Switch",
+          "Hub",
+          "Firewall"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the primary advantage of packet switching over circuit switching?",
+        "options": [
+          "Guaranteed bandwidth for each connection",
+          "Efficient use of network resources by sharing bandwidth",
+          "Dedicated path for the duration of the communication",
+          "Eliminates packet loss"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which organization is responsible for assigning IP addresses and managing the DNS system?",
+        "options": [
+          "IETF",
+          "ICANN",
+          "IEEE",
+          "W3C"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "In packet-switched networks, what does the term 'store-and-forward' refer to?",
+        "options": [
+          "Storing and transmitting data at the same time",
+          "A packet switch must receive an entire packet before forwarding it",
+          "Data is stored indefinitely until the user retrieves it",
+          "Forwarding data based on MAC addresses"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following represents the correct order of layers in the TCP/IP model from the highest to the lowest?",
+        "options": [
+          "Application, Network, Transport, Physical",
+          "Application, Transport, Network, Data Link",
+          "Physical, Data Link, Transport, Network",
+          "Network, Transport, Application, Physical"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What does a router use to determine the next hop for a packet?",
+        "options": [
+          "The packet’s MAC address",
+          "The packet’s source IP address",
+          "The packet’s destination IP address",
+          "The packet’s port number"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is NOT an access network technology?",
+        "options": [
+          "DSL",
+          "Ethernet",
+          "WiFi",
+          "IP"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the main reason packet-switched networks are preferred over circuit-switched networks for Internet traffic?",
+        "options": [
+          "They provide a dedicated path",
+          "They allow for dynamic resource allocation",
+          "They are simpler to implement",
+          "They guarantee no packet loss"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "In which layer of the TCP/IP model does IP (Internet Protocol) operate?",
+        "options": [
+          "Application Layer",
+          "Transport Layer",
+          "Network Layer",
+          "Data Link Layer"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What happens if the queue in a router becomes full due to high traffic?",
+        "options": [
+          "The router increases the transmission rate",
+          "The packets are forwarded immediately",
+          "Incoming packets are dropped",
+          "The router stores packets temporarily in memory"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is encapsulation in the context of networking?",
+        "options": [
+          "The process of encrypting data for secure transmission",
+          "Wrapping data with protocol information as it passes through different layers",
+          "Assigning a unique IP address to each packet",
+          "Storing packets in a queue before transmission"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following devices operates at the Data Link Layer?",
+        "options": [
+          "Router",
+          "Switch",
+          "Firewall",
+          "DNS Server"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which delay depends on the length of the packet and the transmission rate of the link?",
+        "options": [
+          "Queuing delay",
+          "Propagation delay",
+          "Transmission delay",
+          "Processing delay"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which of the following best describes a 'network of networks'?",
+        "options": [
+          "An isolated network serving a single organization",
+          "A local area network (LAN)",
+          "The global Internet",
+          "A private intranet used by a company"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the primary difference between the Internet and the World Wide Web?",
+        "options": [
+          "The Internet is a network of networks, while the Web is a service that runs on the Internet",
+          "The Web is a network of computers, while the Internet is only used for email",
+          "The Internet only supports wired connections, while the Web is wireless",
+          "The Internet controls DNS, while the Web controls IP addresses"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the role of ICANN (Internet Corporation for Assigned Names and Numbers)?",
+        "options": [
+          "To control how web pages are formatted",
+          "To assign IP addresses and manage domain names",
+          "To create protocols for secure communication",
+          "To operate the routers that make up the Internet's core"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following accurately describes the function of the Data Link Layer in the TCP/IP model?",
+        "options": [
+          "It provides IP addressing for routing packets",
+          "It establishes end-to-end communication between hosts",
+          "It handles framing and MAC addressing",
+          "It translates domain names into IP addresses"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which of the following is a shared medium technology commonly used in home networks?",
+        "options": [
+          "Ethernet",
+          "Wi-Fi",
+          "Fiber to the Home (FTTH)",
+          "DSL"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What does Network Address Translation (NAT) accomplish in a home network?",
+        "options": [
+          "It provides security by encrypting data packets",
+          "It translates private IP addresses to a single public IP address",
+          "It forwards packets based on their MAC addresses",
+          "It ensures that packets arrive in the correct order"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the function of the Transport Layer in the TCP/IP model?",
+        "options": [
+          "It controls the physical transmission of bits",
+          "It provides reliable or unreliable data delivery services",
+          "It manages IP address routing",
+          "It provides framing and error detection on the local network"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which term describes the concept of a router temporarily storing data packets before forwarding them?",
+        "options": [
+          "Queuing delay",
+          "Circuit switching",
+          "Store-and-forward",
+          "Frequency division multiplexing"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "In a packet-switched network, what happens if the buffer at a router is full?",
+        "options": [
+          "The router compresses the packets",
+          "The router forwards packets without delay",
+          "The router drops incoming packets",
+          "The router creates a new path for the packets"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does 'propagation delay' depend on in a network?",
+        "options": [
+          "The size of the packet being transmitted",
+          "The length of the link and the speed of signal propagation",
+          "The number of routers the packet passes through",
+          "The transmission rate of the network"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the main purpose of using packet switching in modern networks?",
+        "options": [
+          "To ensure a dedicated connection for each communication",
+          "To share network resources efficiently among multiple users",
+          "To minimize delays by sending data as a single stream",
+          "To prioritize voice communication over data transmission"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What does the term 'queuing delay' refer to?",
+        "options": [
+          "The time taken to transmit all bits of a packet onto the link",
+          "The time a packet spends waiting in a queue before being transmitted",
+          "The time taken for a signal to propagate through a link",
+          "The time required to process the packet header"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What happens when the 'traffic intensity (La/R)' exceeds 1?",
+        "options": [
+          "The network operates normally with no delays",
+          "The network queue will grow indefinitely, causing high delays",
+          "The network will drop all incoming packets",
+          "The transmission rate will double"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What does 'packet loss' occur due to?",
+        "options": [
+          "High processing delays at routers",
+          "Queues reaching their capacity limit",
+          "Too few packets arriving at the router",
+          "High propagation speed across the link"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the purpose of the 'Traceroute' tool in networking?",
+        "options": [
+          "To check the IP address of a server",
+          "To calculate the bandwidth of a network",
+          "To measure end-to-end delay between two computers",
+          "To set up a network connection"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What determines the 'throughput' of a network connection?",
+        "options": [
+          "The time packets spend in a queue",
+          "The processing power of routers",
+          "The rate at which data is successfully transmitted between two nodes",
+          "The speed of light in a vacuum"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following describes a 'bottleneck link'?",
+        "options": [
+          "A link with the lowest transmission rate in the path, limiting overall throughput",
+          "A link that connects multiple routers to the same end system",
+          "A link that automatically balances traffic across multiple routes",
+          "A link with unlimited bandwidth that handles the highest data rates"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "In a 'shared throughput' scenario, how is bandwidth divided?",
+        "options": [
+          "All devices receive maximum bandwidth at all times",
+          "Bandwidth is divided equally among all devices connected to the same link",
+          "Bandwidth is only given to devices with higher priority",
+          "Bandwidth is increased dynamically for each user"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the main cause of 'queuing delay'?",
+        "options": [
+          "The propagation speed of the signal across the link",
+          "The time it takes to process each packet at a router",
+          "Congestion caused by packets arriving faster than they can be transmitted",
+          "The length of the physical connection between two routers"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which type of delay is generally the most 'variable' in a packet-switched network?",
+        "options": [
+          "Transmission delay",
+          "Propagation delay",
+          "Processing delay",
+          "Queuing delay"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the relationship between the 'number of packets' waiting in a queue and the 'queuing delay'?",
+        "options": [
+          "No relationship",
+          "More packets in the queue increase the queuing delay",
+          "Fewer packets in the queue increase the queuing delay",
+          "More packets in the queue decrease the queuing delay"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which factor does 'not' affect 'queuing delay'?",
+        "options": [
+          "Traffic intensity",
+          "Transmission rate",
+          "Propagation distance",
+          "Packet arrival rate"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is 'instantaneous throughput'?",
+        "options": [
+          "The average data transfer rate over a long period",
+          "The speed at which a network can handle bursts of data",
+          "The rate at which data is received at a particular moment",
+          "The maximum bandwidth a link can handle"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "In a network, what does the 'bottleneck link' do?",
+        "options": [
+          "It guarantees that all packets will arrive in order",
+          "It limits the overall throughput of the connection",
+          "It speeds up the packet processing at each router",
+          "It reduces queuing delays by prioritizing packets"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which type of 'traffic' can cause higher queuing delays?",
+        "options": [
+          "Constant-rate traffic",
+          "Periodic traffic",
+          "Bursting traffic",
+          "Low-intensity traffic"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which form of network delay can be greatly reduced by increasing the 'link transmission rate'?",
+        "options": [
+          "Processing delay",
+          "Queuing delay",
+          "Transmission delay",
+          "Propagation delay"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What happens when the 'queue' at a router is full?",
+        "options": [
+          "The router slows down its processing speed",
+          "Incoming packets are dropped",
+          "Incoming packets are processed at a faster rate",
+          "The router sends an error message to the sender"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which tool can help identify where in a network the 'most delay' is occurring?",
+        "options": [
+          "Bandwidth tester",
+          "DNS lookup",
+          "Traceroute",
+          "Speedometer"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the main 'cause' of 'packet loss' in a network?",
+        "options": [
+          "Propagation delay",
+          "Queuing delay",
+          "Full queue at the router",
+          "Packet header errors"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What effect does a 'high traffic intensity' (La/R > 1) have on a network?",
+        "options": [
+          "It improves packet delivery speed",
+          "It reduces the need for error correction",
+          "It causes significant queuing delays",
+          "It increases the network's available bandwidth"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following best describes 'end-to-end delay'?",
+        "options": [
+          "The delay at each individual router",
+          "The total delay a packet experiences from the source to the destination",
+          "The delay caused by queueing alone",
+          "The delay caused by transmission alone"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the main function of the 'Traceroute' tool in networking?",
+        "options": [
+          "To measure the total throughput of a network",
+          "To analyze and reduce packet loss",
+          "To identify the path and measure the delay at each hop in a network",
+          "To calculate the bandwidth of a network link"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What type of 'delay' depends on the distance between two routers and the speed of the physical medium?",
+        "options": [
+          "Transmission delay",
+          "Queuing delay",
+          "Processing delay",
+          "Propagation delay"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the role of the 'application layer' in the Internet protocol stack?",
+        "options": [
+          "Provides error checking and reliable data transmission",
+          "Manages IP addressing and routing",
+          "Provides communication services to network applications",
+          "Ensures data is transmitted over the physical medium"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which protocol is primarily used for 'reliable data transfer' in the transport layer?",
+        "options": [
+          "UDP",
+          "TCP",
+          "IP",
+          "HTTP"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "In a packet-switched network, what does 'store-and-forward transmission' mean?",
+        "options": [
+          "Routers forward packets before receiving them entirely",
+          "Routers store packets until the network is idle",
+          "Routers store the entire packet before forwarding it",
+          "Packets are forwarded as soon as they reach the first router"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "In which layer of the Internet protocol stack does 'IP addressing' occur?",
+        "options": [
+          "Application layer",
+          "Transport layer",
+          "Network layer",
+          "Link layer"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What happens during 'encapsulation' in the Internet protocol stack?",
+        "options": [
+          "Data is transmitted without any headers",
+          "Each layer adds its own header to the data",
+          "Data is compressed to reduce transmission time",
+          "Data is encrypted for security"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which layer of the Internet protocol stack is responsible for 'moving frames' between devices on the same network?",
+        "options": [
+          "Physical layer",
+          "Link layer",
+          "Network layer",
+          "Transport layer"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What does a 'bottleneck link' refer to in networking?",
+        "options": [
+          "The router with the highest processing delay",
+          "The fastest link in a route",
+          "The link with the slowest transmission rate, limiting throughput",
+          "The router with the least traffic"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What does the term 'queueing delay' refer to in a network?",
+        "options": [
+          "The time it takes for a packet to travel from one router to another",
+          "The time a packet spends waiting in a queue at a router before being transmitted",
+          "The time taken to process a packet's header",
+          "The time required to transmit a packet over a link"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What happens when the 'traffic intensity' (La/R) in a network exceeds 1?",
+        "options": [
+          "Packets are transmitted faster",
+          "Queuing delays decrease",
+          "The queue grows indefinitely, leading to high delays",
+          "Packets are always delivered on time"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the main cause of 'packet loss' in a network?",
+        "options": [
+          "Congestion at the router causing the queue to overflow",
+          "The packet arriving at its destination out of order",
+          "Transmission over long distances",
+          "Incorrect packet addressing"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is true about 'throughput' in networking?",
+        "options": [
+          "Throughput is the delay caused by queueing",
+          "Throughput is the rate at which data is successfully transmitted over a network",
+          "Throughput refers to the size of the packet header",
+          "Throughput is the time taken to process a packet at each router"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the 'bottleneck link' in a network path?",
+        "options": [
+          "The fastest link in the network",
+          "The link with the least amount of traffic",
+          "The link with the slowest transmission rate that limits throughput",
+          "The first link in a network path"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the difference between 'instantaneous throughput' and 'average throughput'?",
+        "options": [
+          "Instantaneous throughput measures total network capacity, while average throughput measures data loss",
+          "Instantaneous throughput is the current transmission rate, while average throughput is the overall rate over a period of time",
+          "Instantaneous throughput is always higher than average throughput",
+          "Average throughput is measured only for large data transfers"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the primary purpose of 'Network Address Translation (NAT)'?",
+        "options": [
+          "To encrypt data packets",
+          "To convert private IP addresses into public IP addresses",
+          "To transmit data over wireless links",
+          "To compress data for faster transmission"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which layer of the Internet protocol stack handles 'routing' of data between devices on different networks?",
+        "options": [
+          "Physical layer",
+          "Data link layer",
+          "Network layer",
+          "Transport layer"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "In networking, what does the term 'burst traffic' refer to?",
+        "options": [
+          "Data packets arriving at a constant rate",
+          "Data packets arriving in short, intense bursts followed by periods of inactivity",
+          "Data packets arriving after a long delay",
+          "Data packets arriving simultaneously from different sources"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What tool can be used to measure 'end-to-end delay' between a source and destination?",
+        "options": [
+          "FTP",
+          "HTTP",
+          "Traceroute",
+          "DNS"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What is 'propagation delay' in a network?",
+        "options": [
+          "The time taken to process a packet's header",
+          "The time taken for a packet to travel from one router to another",
+          "The time a packet waits in a queue before being transmitted",
+          "The time taken to transmit all bits of a packet onto the link"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following factors influences 'transmission delay'?",
+        "options": [
+          "The distance between routers",
+          "The size of the packet and the transmission rate of the link",
+          "The number of routers a packet passes through",
+          "The total size of the queue at the router"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "How is 'total nodal delay' calculated?",
+        "options": [
+          "Sum of processing, queueing, transmission, and propagation delays",
+          "Sum of transmission and propagation delays only",
+          "Queueing delay divided by propagation delay",
+          "Processing delay multiplied by queueing delay"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following best describes the 'network core'?",
+        "options": [
+          "The physical cables used to connect computers",
+          "A central point in the network where all data is stored",
+          "The interconnected routers that forward data across the network",
+          "The end systems, such as clients and servers"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "In networking, what does the term 'end-to-end delay' refer to?",
+        "options": [
+          "The time it takes for a packet to travel from the source to its final destination",
+          "The time taken to propagate a signal through a single router",
+          "The time it takes for data to be processed at each router",
+          "The delay caused by packet reordering"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the function of 'the transport layer' in the Internet protocol stack?",
+        "options": [
+          "To transmit raw bits over a physical link",
+          "To handle framing and addressing",
+          "To provide communication services between application endpoints",
+          "To determine the best path for data to travel through the network"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which protocol is responsible for 'reliable, in-sequence data transmission'?",
+        "options": [
+          "UDP",
+          "HTTP",
+          "IP",
+          "TCP"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "In a 'layered network architecture', which layer adds its own header to the data as it passes down the stack?",
+        "options": [
+          "Only the application layer",
+          "Only the transport layer",
+          "Each layer in the protocol stack",
+          "Only the network layer"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following protocols is used to translate 'human-readable domain names into IP addresses'?",
+        "options": [
+          "FTP",
+          "HTTP",
+          "DNS",
+          "SMTP"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does 'encapsulation' refer to in networking?",
+        "options": [
+          "Compressing data to send over the network",
+          "Wrapping data with protocol information at each layer of the protocol stack",
+          "Encrypting data for secure transmission",
+          "Storing data in a temporary buffer before transmission"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      }
+    ]
+  }
+  

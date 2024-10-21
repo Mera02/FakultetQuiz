@@ -1,0 +1,540 @@
+{
+    "week3_questions": [
+      {
+        "question": "What happens when a router's queue is full?",
+        "options": [
+          "Packets are stored",
+          "Packets are dropped",
+          "Packets are redirected",
+          "Packets are sent back to the sender"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is NOT a source of delay at each hop?",
+        "options": [
+          "Nodal processing",
+          "Queueing",
+          "Transmission",
+          "DNS lookup"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the primary purpose of the transport layer?",
+        "options": [
+          "Managing multiplexing, ordering, and pacing",
+          "Encrypting data",
+          "Routing packets",
+          "Handling DNS lookups"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "In the client-server model, who sends requests?",
+        "options": [
+          "Clients",
+          "Servers",
+          "Peers",
+          "Routers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which of the following HTTP methods is used to request data from a server?",
+        "options": [
+          "GET",
+          "POST",
+          "DELETE",
+          "PUT"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What HTTP response code indicates that the resource has been moved permanently?",
+        "options": [
+          "200 OK",
+          "301 Moved Permanently",
+          "403 Forbidden",
+          "404 Not Found"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What protocol is commonly used to send emails?",
+        "options": [
+          "FTP",
+          "HTTP",
+          "SMTP",
+          "IMAP"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "In peer-to-peer (P2P) architecture, what is a common challenge?",
+        "options": [
+          "Static IP addresses",
+          "Firewalls blocking peers",
+          "Always-on servers",
+          "Fast, stable connections"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which part of the HTTP request contains the actual data being sent to the server?",
+        "options": [
+          "Headers",
+          "URL",
+          "Body",
+          "Status line"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Why is HTTP considered a stateless protocol?",
+        "options": [
+          "Each request is independent and contains all necessary information",
+          "It uses cookies for tracking",
+          "It doesn't support encryption",
+          "Servers remember previous requests"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What protocol is typically used for reliable, two-way communication in HTTP?",
+        "options": [
+          "UDP",
+          "TCP",
+          "IP",
+          "Ethernet"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which HTTP method is used to send data to the server, often for form submissions?",
+        "options": [
+          "GET",
+          "POST",
+          "PUT",
+          "DELETE"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following HTTP response codes indicates success?",
+        "options": [
+          "200 OK",
+          "301 Moved Permanently",
+          "403 Forbidden",
+          "500 Internal Server Error"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What does an HTTP 'cookie' do?",
+        "options": [
+          "Compresses server responses",
+          "Tracks user state across sessions",
+          "Identifies the server IP",
+          "Encrypts data"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which protocol is used to send emails?",
+        "options": [
+          "HTTP",
+          "SMTP",
+          "DNS",
+          "FTP"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What happens in the 'HELO' command during an SMTP interaction?",
+        "options": [
+          "The client authenticates the user",
+          "The server accepts a connection",
+          "The client introduces itself to the server",
+          "The server logs the email"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is an advantage of HTTP for new applications?",
+        "options": [
+          "Human-readable headers",
+          "Web community has solved issues like encryption",
+          "HTTP always guarantees no delays",
+          "Web proxies are not reusable"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which layer handles routing packets across multiple hops?",
+        "options": [
+          "Transport Layer",
+          "Link Layer",
+          "Network Layer",
+          "Application Layer"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What is the purpose of the 'QUIT' command in SMTP?",
+        "options": [
+          "To close the session",
+          "To reject an email",
+          "To terminate the message body",
+          "To restart the session"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What architecture involves participants having equal responsibilities with no central server?",
+        "options": [
+          "Client-server",
+          "Peer-to-peer (P2P)",
+          "Cloud-based",
+          "Edge computing"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which HTTP method retrieves data from the server without modifying it?",
+        "options": [
+          "POST",
+          "PUT",
+          "GET",
+          "DELETE"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does the HTTP response code 404 indicate?",
+        "options": [
+          "Resource successfully retrieved",
+          "Server error",
+          "Resource not found",
+          "Unauthorized access"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "In the HTTP request-response process, what does the client do after sending the request?",
+        "options": [
+          "Waits for the server to initiate a new connection",
+          "Sends another request immediately",
+          "Waits for the server to send a response",
+          "Closes the connection immediately"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What does 'stateless' mean in the context of HTTP?",
+        "options": [
+          "The server maintains session information between requests",
+          "Each request contains all the information needed, and the server does not store session data",
+          "The client keeps track of the connection state",
+          "Only encrypted requests are stateless"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which protocol is responsible for translating human-readable domain names into IP addresses?",
+        "options": [
+          "HTTP",
+          "DNS",
+          "SMTP",
+          "FTP"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is a primary challenge of peer-to-peer (P2P) networks?",
+        "options": [
+          "Centralized servers",
+          "Churn (frequent joining and leaving of peers)",
+          "Fixed IP addresses",
+          "Low scalability"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is NOT a feature of the HTTP POST method?",
+        "options": [
+          "Used to submit form data",
+          "Can create or update resources",
+          "Sends data in the request body",
+          "Fetches resources from the server without modification"
+        ],
+        "answer": 3,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the main purpose of a cookie in HTTP?",
+        "options": [
+          "To encrypt the data being transferred",
+          "To track user sessions and state",
+          "To compress the size of the response",
+          "To verify server identity"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the primary purpose of TCP in the HTTP protocol stack?",
+        "options": [
+          "Encrypt communication between client and server",
+          "Handle routing of packets",
+          "Ensure reliable, ordered delivery of data",
+          "Generate URLs for web pages"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which HTTP response code indicates a permanent redirect to a new URL?",
+        "options": [
+          "200 OK",
+          "301 Moved Permanently",
+          "500 Internal Server Error",
+          "403 Forbidden"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What does a '500 Internal Server Error' response code indicate in HTTP?",
+        "options": [
+          "The client’s request is malformed",
+          "The requested resource could not be found",
+          "There is a server-side problem preventing the request from being fulfilled",
+          "The client lacks necessary permissions to access the resource"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which HTTP method is typically used to update a resource on the server?",
+        "options": [
+          "DELETE",
+          "POST",
+          "PUT",
+          "GET"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What happens when a router's queue is full?",
+        "options": [
+          "The router forwards the packet immediately",
+          "The router drops the incoming packets",
+          "The router reduces the speed of transmission",
+          "The router increases the queue size"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is an example of a Tier 1 ISP’s role in the internet?",
+        "options": [
+          "Providing high-speed backbone links for global traffic",
+          "Storing user cookies",
+          "Compressing data before sending it",
+          "Monitoring DNS requests for security"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What layer in the protocol stack handles encryption and security for HTTPS connections?",
+        "options": [
+          "Application Layer",
+          "Transport Layer",
+          "Network Layer",
+          "Session Security Layer (TLS)"
+        ],
+        "answer": 3,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the primary purpose of multiplexing in the Transport Layer?",
+        "options": [
+          "To route data across multiple routers",
+          "To manage multiple connections on a single machine",
+          "To encrypt all transmitted data",
+          "To compress data before sending it over the network"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which protocol is used for sending emails from one mail server to another?",
+        "options": [
+          "HTTP",
+          "SMTP",
+          "IMAP",
+          "POP3"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which is an example of a client-server architecture?",
+        "options": [
+          "BitTorrent file-sharing",
+          "Skype video calls",
+          "A user requesting a webpage from a server",
+          "Two clients directly exchanging files"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the role of a centralized tracker in P2P networks like BitTorrent?",
+        "options": [
+          "To store content for distribution",
+          "To help peers find each other and manage connections",
+          "To compress files before sharing",
+          "To prevent unauthorized access to data"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "In HTTP, what does the 'Set-Cookie' header do?",
+        "options": [
+          "Tells the browser to store a cookie for future requests",
+          "Encrypts the request to the server",
+          "Tracks the server’s IP address",
+          "Compresses the size of the HTTP request"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What does 'stateless' mean in the context of HTTP?",
+        "options": [
+          "The server remembers previous requests",
+          "Each request is independent, and the server doesn’t retain any memory of past requests",
+          "The server stores all client data permanently",
+          "The server encrypts all requests by default"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is NOT a typical source of packet delay?",
+        "options": [
+          "Nodal processing",
+          "Queueing",
+          "Bitrate compression",
+          "Propagation"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "In which architecture do peers have equal responsibilities without relying on central servers?",
+        "options": [
+          "Client-server",
+          "Peer-to-peer (P2P)",
+          "Web-server",
+          "Hybrid architecture"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following best describes the role of a socket in networking?",
+        "options": [
+          "It encrypts data before transmission",
+          "It represents one end of a network connection between two machines",
+          "It assigns IP addresses to devices",
+          "It stores web cookies on the client side"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What does a '404 Not Found' response code indicate?",
+        "options": [
+          "The server is unavailable",
+          "The URL is incorrect or the resource does not exist",
+          "The client does not have permission to access the resource",
+          "The request was successful, but the server took too long to respond"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What problem does peering between networks solve?",
+        "options": [
+          "It speeds up DNS queries",
+          "It allows networks to exchange traffic without paying each other",
+          "It prevents packet loss in long-distance communication",
+          "It compresses large files before transmission"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "In HTTP, what is the main purpose of the GET method?",
+        "options": [
+          "To delete data on the server",
+          "To update a resource",
+          "To request data from the server",
+          "To send form data to the server"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What type of connection does SMTP use to send emails between servers?",
+        "options": [
+          "Stateless UDP connection",
+          "Reliable TCP connection",
+          "One-way HTTP connection",
+          "Encrypted TLS connection by default"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What challenge does 'churn' refer to in peer-to-peer networks?",
+        "options": [
+          "Data encryption issues",
+          "Peers frequently joining and leaving the network",
+          "Low data transfer rates",
+          "Address resolution problems"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is a disadvantage of using HTTP for new applications?",
+        "options": [
+          "Human-readable headers can introduce overhead",
+          "HTTP lacks widespread client library support",
+          "HTTP does not support encryption",
+          "HTTP can only be used for web browsers"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      }
+    ]
+  }
+  

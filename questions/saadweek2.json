@@ -1,0 +1,565 @@
+{
+  "week2_questions": [
+      {
+          "question": "Which scenario best illustrates the benefit of Rapid Application Development (RAD) methodologies in high-stakes projects?",
+          "options": [
+              "RAD ensures that once a phase is completed, it cannot be revisited",
+              "RAD provides continuous user feedback, ensuring rapid iterations and quick delivery of critical components",
+              "RAD delays the need for any user input until system deployment",
+              "RAD focuses primarily on system documentation to avoid user involvement"
+          ],
+          "answer": 1,
+          "isDefinition": true
+      },
+      {
+          "question": "What is the fundamental risk when applying Waterfall in dynamic, high-risk projects?",
+          "options": [
+              "Waterfall's flexibility allows for constant requirement changes during any phase",
+              "Waterfall lacks the structure to handle complex coding requirements",
+              "Waterfall's sequential nature may lead to discovering fundamental requirement flaws late in development",
+              "Waterfall encourages team autonomy, which reduces oversight"
+          ],
+          "answer": 2,
+          "isDefinition": true
+      },
+      {
+          "question": "In Agile development, how can a team ensure that a sprint delivers meaningful progress in alignment with user expectations?",
+          "options": [
+              "By scheduling all sprints at the start of the project",
+              "By focusing the sprint solely on internal technical improvements",
+              "By engaging users throughout the sprint to validate that completed features meet current needs",
+              "By ensuring that the sprint has no customer involvement until deployment"
+          ],
+          "answer": 2,
+          "isDefinition": true
+      },
+      {
+          "question": "If a system development project lacks clearly defined user requirements and is expected to evolve based on continuous feedback, which methodology would be least effective?",
+          "options": [
+              "Waterfall, as it requires finalized requirements early on",
+              "Parallel Development, as it allows continuous user involvement",
+              "Agile, due to its iteration-driven approach",
+              "Structured Design, which inherently handles flexible requirements"
+          ],
+          "answer": 0,
+          "isDefinition": true
+      },
+      {
+          "question": "Which aspect of system development is most prone to failure in Waterfall projects due to its inability to handle unforeseen changes in user requirements?",
+          "options": [
+              "Late discovery of design flaws",
+              "Excessive user input during the design phase",
+              "Lack of testing during the analysis phase",
+              "Inadequate documentation of system requirements"
+          ],
+          "answer": 0,
+          "isDefinition": true
+      },
+      {
+          "question": "In what way does Prototyping particularly benefit system development when users have difficulty articulating their exact needs?",
+          "options": [
+              "By focusing solely on back-end system requirements",
+              "By allowing users to interact with early versions of the system, providing critical feedback for refinement",
+              "By minimizing the need for iterative development",
+              "By prioritizing strict documentation over user engagement"
+          ],
+          "answer": 1,
+          "isDefinition": true
+      },
+      {
+          "question": "Which potential pitfall of Throwaway Prototyping makes it risky to use as the sole basis for final system development?",
+          "options": [
+              "The prototype evolves directly into the final product without significant rework",
+              "The prototype is discarded after identifying key design issues, leaving a gap in system continuity",
+              "The prototype is expected to include full system functionality",
+              "The prototype is built with the same rigor as the final system"
+          ],
+          "answer": 1,
+          "isDefinition": true
+      },
+      {
+          "question": "What makes the Analysis phase of SDLC critical in ensuring long-term system success?",
+          "options": [
+              "It primarily focuses on system testing and bug fixes",
+              "It lays out the system’s business requirements and design specifications, which serve as the foundation for subsequent phases",
+              "It handles the final deployment of the system",
+              "It focuses on post-implementation user training"
+          ],
+          "answer": 1,
+          "isDefinition": true
+      },
+      {
+          "question": "What is the greatest strength of Parallel Development, particularly in large-scale, complex projects?",
+          "options": [
+              "Its rigid sequential approach",
+              "It allows concurrent work on subprojects, speeding up overall system delivery",
+              "It avoids system integration until the final phase",
+              "It ensures minimal documentation throughout the process"
+          ],
+          "answer": 1,
+          "isDefinition": true
+      },
+      {
+          "question": "Why might the Waterfall model be preferable over Agile or Prototyping in certain large, highly regulated industries such as aerospace or medical device development?",
+          "options": [
+              "Its emphasis on rapid iteration makes it better suited to handling changing requirements",
+              "Its strict sequential phases allow for thorough validation and regulatory compliance at each step",
+              "It allows for frequent user involvement and feedback",
+              "It minimizes upfront planning, focusing on adaptive change management"
+          ],
+          "answer": 1,
+          "isDefinition": true
+      },
+      {
+          "question": "What is the key deliverable at the end of the Analysis phase in SDLC, which is pivotal for the success of subsequent phases?",
+          "options": [
+              "System proposal that outlines high-level solutions",
+              "System specification that details the system's requirements",
+              "Project plan, providing a timeline and resources",
+              "Installed system ready for user deployment"
+          ],
+          "answer": 1,
+          "isDefinition": true
+      },
+      {
+          "question": "How does Scrum ensure that development teams can maintain focus and deliver frequent, tangible progress in short timeframes?",
+          "options": [
+              "By removing the need for daily meetings",
+              "By allowing tasks to be reprioritized mid-sprint",
+              "By using defined roles such as Product Owner and Scrum Master to maintain a well-structured process",
+              "By requiring full system completion after each sprint"
+          ],
+          "answer": 2,
+          "isDefinition": true
+      },
+      {
+          "question": "Which principle of Agile methodology most directly addresses the need for frequent user involvement and early software delivery?",
+          "options": [
+              "Simplicity of design",
+              "Face-to-face conversation",
+              "Frequent delivery of working software",
+              "Sustainable development pace"
+          ],
+          "answer": 2,
+          "isDefinition": true
+      },
+      {
+          "question": "What is the core focus of the Implementation phase in SDLC, and how does it contribute to system success?",
+          "options": [
+              "Finalizing system requirements",
+              "Developing and testing the software code for bugs",
+              "Installing the system for user access",
+              "Ensuring the system is free of errors in the design"
+          ],
+          "answer": 2,
+          "isDefinition": true
+      },
+      {
+          "question": "In Agile projects, which documentation practice aligns with the principle of delivering value quickly without excessive overhead?",
+          "options": [
+              "Writing comprehensive documentation for all features",
+              "Producing just enough documentation to meet the project’s needs and allow for rapid iteration",
+              "Skipping documentation altogether in favor of code comments",
+              "Documenting only the testing phase"
+          ],
+          "answer": 1,
+          "isDefinition": true
+      },
+      {
+        "question": "Which SDLC model is best suited for a project where requirements are well-understood and unlikely to change?",
+        "options": [
+            "Agile",
+            "Waterfall",
+            "Spiral",
+            "Prototyping"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "Why is the Analysis phase critical in the Waterfall model?",
+        "options": [
+            "It ensures that all phases are completed simultaneously",
+            "It captures system requirements, which are the foundation for all subsequent phases",
+            "It involves testing the system before deployment",
+            "It focuses on finalizing system architecture"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "Which of the following is a key disadvantage of the Waterfall model?",
+        "options": [
+            "It provides frequent user feedback",
+            "It allows for easy changes during any phase",
+            "It locks in requirements early, making later changes difficult",
+            "It focuses on iterative development"
+        ],
+        "answer": 2,
+        "isDefinition": true
+    },
+    {
+        "question": "How does Agile methodology handle changes in system requirements during development?",
+        "options": [
+            "It allows changes to be incorporated during short, iterative sprints",
+            "It locks the requirements after the first iteration",
+            "It does not support changes once development begins",
+            "It requires approval from all stakeholders before changes can be made"
+        ],
+        "answer": 0,
+        "isDefinition": true
+    },
+    {
+        "question": "Which Agile practice helps teams stay aligned and address obstacles quickly?",
+        "options": [
+            "Sprint planning",
+            "Daily stand-up meetings",
+            "Retrospective",
+            "Backlog refinement"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "What is the main focus of the Design phase in SDLC?",
+        "options": [
+            "Developing the code for the system",
+            "Defining the system's architecture and components",
+            "Testing the system for errors",
+            "Gathering user feedback"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "What is a key feature of the Prototyping model?",
+        "options": [
+            "It emphasizes user feedback early in the development process",
+            "It discourages iterative development",
+            "It skips the testing phase",
+            "It requires full system deployment after each prototype"
+        ],
+        "answer": 0,
+        "isDefinition": true
+    },
+    {
+        "question": "Which Agile framework uses time-boxed iterations called 'sprints'?",
+        "options": [
+            "Kanban",
+            "Scrum",
+            "Lean",
+            "XP (Extreme Programming)"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "What is the primary purpose of the Testing phase in the SDLC?",
+        "options": [
+            "To gather user requirements",
+            "To verify that the system functions as expected and is free of bugs",
+            "To design the system architecture",
+            "To deploy the system to users"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "Which methodology encourages continuous delivery of small, incremental changes to the system?",
+        "options": [
+            "Waterfall",
+            "Spiral",
+            "Prototyping",
+            "Agile"
+        ],
+        "answer": 3,
+        "isDefinition": true
+    },
+    {
+        "question": "In the context of SDLC, what is a key advantage of the Spiral model?",
+        "options": [
+            "It does not involve risk analysis",
+            "It allows for iterative development and continuous risk assessment",
+            "It focuses on strict, linear phases with no iterations",
+            "It eliminates the need for user feedback"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "Which Agile practice involves reflecting on what went well and what can be improved at the end of each sprint?",
+        "options": [
+            "Daily stand-up meetings",
+            "Sprint planning",
+            "Sprint review",
+            "Sprint retrospective"
+        ],
+        "answer": 3,
+        "isDefinition": true
+    },
+    {
+        "question": "What is the main difference between Agile and Waterfall models?",
+        "options": [
+            "Agile allows for flexible, iterative development, while Waterfall follows a linear, sequential approach",
+            "Waterfall encourages early user feedback, while Agile does not",
+            "Agile requires all phases to be completed before moving on, while Waterfall does not",
+            "Agile is best suited for projects with stable requirements, while Waterfall handles evolving requirements better"
+        ],
+        "answer": 0,
+        "isDefinition": true
+    },
+    {
+        "question": "Which phase in the SDLC involves defining how the system will operate in terms of hardware, software, and network infrastructure?",
+        "options": [
+            "Implementation",
+            "Design",
+            "Analysis",
+            "Maintenance"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "What is the primary advantage of using Scrum in Agile projects?",
+        "options": [
+            "It eliminates the need for daily communication",
+            "It provides a structured framework for managing tasks in short iterations",
+            "It focuses on developing documentation",
+            "It prevents changes during development"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "Which SDLC phase is primarily responsible for creating the project's technical specifications?",
+        "options": [
+            "Design",
+            "Planning",
+            "Testing",
+            "Implementation"
+        ],
+        "answer": 0,
+        "isDefinition": true
+    },
+    {
+        "question": "In Agile development, what is the purpose of a 'Product Backlog'?",
+        "options": [
+            "It is a list of tasks to be completed in the next sprint",
+            "It is a prioritized list of features and requirements for the project",
+            "It is a list of bugs that need to be fixed",
+            "It is a list of completed tasks from previous sprints"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "What is the key feature of the 'V-Model' in SDLC?",
+        "options": [
+            "It involves iterations and feedback loops like Agile",
+            "It focuses on validation and verification at every phase",
+            "It skips the testing phase",
+            "It allows changes to be made during any phase"
+        ],
+        "answer": 1,
+        "isDefinition": true
+    },
+    {
+        "question": "In the context of Agile, what does the term 'Increment' refer to?",
+        "options": [
+            "A small portion of the system that is completed during a sprint and ready for use",
+            "A sprint that focuses on fixing bugs",
+            "A phase where system requirements are gathered",
+            "A phase where system documentation is finalized"
+        ],
+        "answer": 0,
+        "isDefinition": true
+    },
+    {
+        "question": "Why is the Maintenance phase critical in the SDLC?",
+        "options": [
+            "It allows for fixing bugs and adding enhancements after the system is deployed",
+            "It ensures that system requirements are finalized",
+            "It focuses on writing system documentation",
+            "It involves gathering user feedback for the first time"
+        ],
+        "answer": 0,
+        "isDefinition": true
+    },
+    {
+      "question": "What is the primary goal of the Maintenance phase in the SDLC?",
+      "options": [
+          "To ensure the system is developed on time",
+          "To fix bugs and update the system as necessary",
+          "To gather system requirements from users",
+          "To document system features"
+      ],
+      "answer": 1,
+      "isDefinition": true
+  },
+  {
+      "question": "In Agile development, which role is responsible for prioritizing the Product Backlog?",
+      "options": [
+          "Scrum Master",
+          "Product Owner",
+          "Development Team",
+          "Stakeholders"
+      ],
+      "answer": 1,
+      "isDefinition": true
+  },
+  {
+      "question": "Which of the following describes a key disadvantage of the Waterfall model?",
+      "options": [
+          "It is too flexible and prone to frequent changes",
+          "It is difficult to make changes after the Analysis phase",
+          "It focuses too much on user feedback",
+          "It skips the Testing phase"
+      ],
+      "answer": 1,
+      "isDefinition": true
+  },
+  {
+      "question": "Which document is typically produced during the Analysis phase in SDLC?",
+      "options": [
+          "System requirements specification",
+          "Code documentation",
+          "Test plan",
+          "Deployment plan"
+      ],
+      "answer": 0,
+      "isDefinition": true
+  },
+  {
+      "question": "What is the key feature of the Spiral model?",
+      "options": [
+          "It allows for iterative development with continuous risk assessment",
+          "It eliminates the need for system testing",
+          "It discourages user feedback",
+          "It focuses solely on documentation"
+      ],
+      "answer": 0,
+      "isDefinition": true
+  },
+  {
+      "question": "What does the term 'increment' refer to in Agile?",
+      "options": [
+          "A part of the system that is delivered after each iteration",
+          "A phase of system maintenance",
+          "The planning process in Waterfall",
+          "A sprint duration"
+      ],
+      "answer": 0,
+      "isDefinition": true
+  },
+  {
+      "question": "Which SDLC phase is responsible for identifying and fixing defects in the system?",
+      "options": [
+          "Design",
+          "Implementation",
+          "Testing",
+          "Maintenance"
+      ],
+      "answer": 2,
+      "isDefinition": true
+  },
+  {
+      "question": "Why is Agile more suitable for projects with changing requirements?",
+      "options": [
+          "It requires no planning before development begins",
+          "It allows for iterative development and regular feedback from users",
+          "It uses a strict linear process",
+          "It emphasizes documentation over flexibility"
+      ],
+      "answer": 1,
+      "isDefinition": true
+  },
+  {
+      "question": "In Scrum, what is the purpose of a Sprint Review?",
+      "options": [
+          "To demonstrate the completed work to stakeholders",
+          "To plan the next sprint",
+          "To discuss what went well and what could be improved",
+          "To write the final system documentation"
+      ],
+      "answer": 0,
+      "isDefinition": true
+  },
+  {
+      "question": "What is a major advantage of the Prototyping model in SDLC?",
+      "options": [
+          "It eliminates the need for testing",
+          "It allows users to interact with an early version of the system and provide feedback",
+          "It speeds up the development process by skipping design",
+          "It focuses only on technical aspects of the system"
+      ],
+      "answer": 1,
+      "isDefinition": true
+  },
+  {
+      "question": "Which role in Scrum is primarily responsible for facilitating meetings and removing obstacles?",
+      "options": [
+          "Product Owner",
+          "Scrum Master",
+          "Development Team",
+          "Stakeholders"
+      ],
+      "answer": 1,
+      "isDefinition": true
+  },
+  {
+      "question": "What is the primary focus of the Design phase in SDLC?",
+      "options": [
+          "Writing the system code",
+          "Defining how the system will work and its architecture",
+          "Gathering user feedback",
+          "Testing the system for bugs"
+      ],
+      "answer": 1,
+      "isDefinition": true
+  },
+  {
+      "question": "Which document serves as the foundation for the Design phase in SDLC?",
+      "options": [
+          "Test plan",
+          "Deployment plan",
+          "System requirements specification",
+          "System user manual"
+      ],
+      "answer": 2,
+      "isDefinition": true
+  },
+  {
+      "question": "Which of the following Agile frameworks uses a visual board to manage the workflow?",
+      "options": [
+          "Scrum",
+          "Kanban",
+          "XP (Extreme Programming)",
+          "Lean"
+      ],
+      "answer": 1,
+      "isDefinition": true
+  },
+  {
+      "question": "Why is user involvement crucial in the Prototyping model?",
+      "options": [
+          "It ensures that the system is delivered faster",
+          "It allows users to refine their requirements by interacting with early versions of the system",
+          "It eliminates the need for system testing",
+          "It focuses on documentation"
+      ],
+      "answer": 1,
+      "isDefinition": true
+  },
+  {
+      "question": "What is the goal of a Sprint Retrospective in Scrum?",
+      "options": [
+          "To demonstrate the work completed during the sprint",
+          "To plan the next sprint",
+          "To reflect on what went well and what could be improved",
+          "To gather system requirements from users"
+      ],
+      "answer": 2,
+      "isDefinition": true
+  }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+    "week3_questions": [
+      {
+        "question": "What is the hexadecimal equivalent of the decimal number 255?",
+        "options": ["0x10", "0xFF", "0x1A", "0xF"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the decimal value of the binary number 1011?",
+        "options": ["10", "11", "12", "13"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the octal equivalent of the decimal number 64?",
+        "options": ["64", "100", "77", "74"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the hexadecimal number 3A to binary.",
+        "options": ["00111011", "00111010", "11111010", "00111110"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the decimal equivalent of the hexadecimal number 1F?",
+        "options": ["15", "25", "31", "35"],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the binary number 1101 to hexadecimal.",
+        "options": ["D", "E", "F", "9"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the binary equivalent of the octal number 17?",
+        "options": ["11101", "11111", "001111", "11001"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the decimal number 256 to hexadecimal.",
+        "options": ["0x100", "0x200", "0xFF", "0x10A"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is the octal representation of the hexadecimal number 4F?",
+        "options": ["117", "77", "77F", "127"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the decimal equivalent of the octal number 75?",
+        "options": ["60", "61", "62", "63"],
+        "answer": 3,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the decimal number 500 to hexadecimal.",
+        "options": ["0x1F4", "0x1E0", "0x200", "0x1F5"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the binary equivalent of the decimal number 45?",
+        "options": ["101101", "101110", "110101", "1011010"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the hexadecimal number 9C to decimal.",
+        "options": ["156", "140", "132", "156"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the octal equivalent of the binary number 101010?",
+        "options": ["52", "65", "75", "70"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the decimal number 73 to octal.",
+        "options": ["111", "122", "120", "101"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the octal number 31 to binary.",
+        "options": ["011001", "11001", "11001", "11101"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the decimal equivalent of the binary number 10011?",
+        "options": ["17", "19", "21", "23"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the binary equivalent of the hexadecimal number F?",
+        "options": ["1110", "1101", "1111", "1001"],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the hexadecimal number B2 to binary.",
+        "options": ["11011001", "10110010", "10111010", "10011001"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the octal equivalent of the decimal number 99?",
+        "options": ["142", "145", "145", "143"],
+        "answer": 3,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the binary number 10111 to decimal.",
+        "options": ["21", "23", "25", "19"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the hexadecimal equivalent of the decimal number 1023?",
+        "options": ["0x3FF", "0x40F", "0x45F", "0xFFF"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the decimal number 87 to hexadecimal.",
+        "options": ["0x52", "0x57", "0x5A", "0x59"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the decimal equivalent of the hexadecimal number A4?",
+        "options": ["160", "165", "164", "158"],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the octal number 14 to decimal.",
+        "options": ["10", "12", "14", "16"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the octal equivalent of the hexadecimal number 5C?",
+        "options": ["134", "140", "130", "137"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the binary number 10001 to hexadecimal.",
+        "options": ["0x15", "0x11", "0xF1", "0x10"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the binary equivalent of the decimal number 89?",
+        "options": ["1011001", "1001101", "1101101", "1101001"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the decimal number 36 to octal.",
+        "options": ["45", "40", "44", "43"],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the hexadecimal equivalent of the binary number 111000?",
+        "options": ["0x30", "0x40", "0x20", "0x31"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the decimal number 15 to hexadecimal.",
+        "options": ["0xF", "0x1F", "0xE", "0xG"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the octal equivalent of the binary number 101010?",
+        "options": ["51", "52", "62", "55"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the hexadecimal number 7D to decimal.",
+        "options": ["123", "124", "125", "127"],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the decimal equivalent of the octal number 32?",
+        "options": ["24", "26", "30", "32"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the binary number 110011 to decimal.",
+        "options": ["51", "55", "45", "49"],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the hexadecimal equivalent of the decimal number 400?",
+        "options": ["0x200", "0x1F0", "0x190", "0x160"],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Convert the decimal number 99 to binary.",
+        "options": ["1100111", "1100011", "1101101", "1011101"],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the binary equivalent of the octal number 74?",
+        "options": ["1111010", "1101101", "1111101", "100011"],
+        "answer": 0,
+        "isDefinition": true
+      }
+    ]
+  }
+  

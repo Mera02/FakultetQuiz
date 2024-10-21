@@ -1,0 +1,565 @@
+{
+  "week1_questions": [
+      {
+        "question": "What is a proposition in logic?",
+        "options": [
+          "A question with multiple answers",
+          "A statement that is either true or false",
+          "A conclusion derived from an argument",
+          "A type of logical fallacy"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which of the following is a logical conjunction?",
+        "options": [
+          "p ∧ q",
+          "p ∨ q",
+          "¬p",
+          "p → q"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What does the symbol ∨ represent in propositional logic?",
+        "options": [
+          "Negation",
+          "Conjunction",
+          "Disjunction",
+          "Implication"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which statement is logically equivalent to ¬(p ∨ q)?",
+        "options": [
+          "¬p ∧ ¬q",
+          "p ∧ ¬q",
+          "p ∨ q",
+          "¬p ∨ q"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is a tautology in logic?",
+        "options": [
+          "A statement that is always false",
+          "A statement that is true in some cases",
+          "A statement that is always true",
+          "A statement that contradicts itself"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which of the following is a contradiction?",
+        "options": [
+          "p ∨ q",
+          "p ∧ ¬p",
+          "p ∧ q",
+          "p → q"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which of the following is the correct truth table for ¬p?",
+        "options": [
+          "T → F, F → T",
+          "T → T, F → F",
+          "T → F, F → F",
+          "T → T, F → T"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which logical connective is represented by the symbol →?",
+        "options": [
+          "Conjunction",
+          "Disjunction",
+          "Implication",
+          "Biconditional"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which statement is logically equivalent to p → q?",
+        "options": [
+          "p ∧ q",
+          "¬p ∨ q",
+          "p ∨ ¬q",
+          "¬p ∧ q"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What is the converse of p → q?",
+        "options": [
+          "q → p",
+          "¬q → ¬p",
+          "p ∨ q",
+          "p ∧ q"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the contrapositive of p → q?",
+        "options": [
+          "q → p",
+          "¬q → ¬p",
+          "¬q → p",
+          "¬p → ¬q"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What is the inverse of p → q?",
+        "options": [
+          "¬q → p",
+          "¬p → q",
+          "¬p → ¬q",
+          "q → p"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which of the following is an example of a biconditional statement?",
+        "options": [
+          "p ↔ q",
+          "p ∨ q",
+          "p ∧ q",
+          "p → q"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the truth value of a proposition p when p is true?",
+        "options": [
+          "False",
+          "True",
+          "Undefined",
+          "True and False"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "In a truth table, how many rows are there for two propositions?",
+        "options": [
+          "2",
+          "4",
+          "6",
+          "8"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "How many rows are in the truth table for three propositions?",
+        "options": [
+          "2",
+          "4",
+          "8",
+          "16"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which of the following is a valid logical equivalence?",
+        "options": [
+          "p ∧ ¬p ≡ T",
+          "p ∨ p ≡ p",
+          "p ∧ p ≡ p",
+          "p ∨ ¬p ≡ p"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the meaning of the logical equivalence p ∨ T ≡ T?",
+        "options": [
+          "A true statement can always be combined with p using OR",
+          "The statement is a contradiction",
+          "p is always true",
+          "p is always false"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following statements is a contradiction?",
+        "options": [
+          "p ∧ ¬p",
+          "p ∨ ¬p",
+          "p ↔ p",
+          "¬(p ∨ q)"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following statements is a tautology?",
+        "options": [
+          "p ∨ ¬p",
+          "p ∧ ¬p",
+          "p → ¬p",
+          "¬p → p"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following statements is a contingency?",
+        "options": [
+          "p ∧ q",
+          "p → q",
+          "¬p ∨ q",
+          "p → (q ∧ ¬q)"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the purpose of a truth table?",
+        "options": [
+          "To determine the truth value of a proposition for all possible truth values of its components",
+          "To simplify logical expressions",
+          "To generate logical statements",
+          "To write mathematical proofs"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following is logically equivalent to ¬(p → q)?",
+        "options": [
+          "p ∧ ¬q",
+          "¬p ∧ q",
+          "¬p ∨ q",
+          "p ∨ ¬q"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following is a valid logical equivalence for the disjunction?",
+        "options": [
+          "p ∨ T ≡ p",
+          "p ∨ F ≡ p",
+          "p ∨ F ≡ T",
+          "p ∨ T ≡ F"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "In the truth table for p ↔ q, when is the statement false?",
+        "options": [
+          "When p and q are both true",
+          "When p and q are both false",
+          "When p and q have different truth values",
+          "When p and q have the same truth values"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the correct negation of p ∨ q?",
+        "options": [
+          "¬p ∧ ¬q",
+          "p ∧ q",
+          "p → q",
+          "¬p ∨ ¬q"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following is a valid logical equivalence?",
+        "options": [
+          "¬(p ∧ q) ≡ ¬p ∨ ¬q",
+          "¬(p ∧ q) ≡ ¬p ∧ ¬q",
+          "¬(p ∨ q) ≡ ¬p ∨ q",
+          "¬(p ∨ q) ≡ p ∧ q"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the biconditional truth table for p ↔ q?",
+        "options": [
+          "True when p and q are both true or both false",
+          "False when p and q are both true",
+          "True when p is true and q is false",
+          "True when p and q are different"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following is logically equivalent to p → q?",
+        "options": [
+          "p ∧ q",
+          "¬p ∨ q",
+          "¬p ∧ q",
+          "p ∨ q"
+        ],
+        "answer": 2
+      },
+      {
+          "question": "What is a predicate in logic?",
+          "options": [
+            "A variable",
+            "A function that returns a true or false value",
+            "A truth value",
+            "A conjunction"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which of the following symbols is used for the universal quantifier?",
+          "options": [
+            "∃",
+            "∀",
+            "¬",
+            "→"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which of the following symbols is used for the existential quantifier?",
+          "options": [
+            "∀",
+            "∃",
+            "↔",
+            "→"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What does the universal quantifier (∀x) represent?",
+          "options": [
+            "Some x",
+            "All x",
+            "No x",
+            "At least one x"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What does the existential quantifier (∃x) represent?",
+          "options": [
+            "At least one x",
+            "All x",
+            "No x",
+            "The only x"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following is the negation of ∃x P(x)?",
+          "options": [
+            "∀x ¬P(x)",
+            "∃x ¬P(x)",
+            "¬∀x P(x)",
+            "P(x) → ¬x"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following is the negation of ∀x P(x)?",
+          "options": [
+            "¬∃x P(x)",
+            "∃x ¬P(x)",
+            "¬∀x ¬P(x)",
+            "P(x) ∨ x"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "If P(x) is 'x is an integer', which of the following expresses 'For every x, x is an integer'?",
+          "options": [
+            "∃x P(x)",
+            "∀x P(x)",
+            "P(x) ∧ x",
+            "¬∃x P(x)"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which of the following represents the statement 'There exists an x such that P(x) is false'?",
+          "options": [
+            "∀x ¬P(x)",
+            "∃x ¬P(x)",
+            "P(x) → x",
+            "¬P(x) ∨ x"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which of the following is a valid quantifier expression?",
+          "options": [
+            "∀x P(x)",
+            "P(x) ∧ x",
+            "P(x) → x",
+            "x ∨ P(x)"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What is the meaning of ∀x ∃y P(x, y)?",
+          "options": [
+            "There exists an x for every y such that P(x, y) is true",
+            "For every x, there exists a y such that P(x, y) is true",
+            "For some x, P(x, y) is false for all y",
+            "There exists a y for all x such that P(x, y) is false"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the meaning of ∃x ∀y P(x, y)?",
+          "options": [
+            "For all x and y, P(x, y) is true",
+            "There exists an x such that for every y, P(x, y) is true",
+            "For some x and y, P(x, y) is false",
+            "For every y, there exists an x such that P(x, y) is false"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which of the following represents the negation of the statement 'For every x, there exists a y such that P(x, y) is true'?",
+          "options": [
+            "∃x ∀y ¬P(x, y)",
+            "∀x ∃y ¬P(x, y)",
+            "¬∃x ∀y P(x, y)",
+            "¬∀x ∃y P(x, y)"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What does the statement ∃x (P(x) ∧ Q(x)) mean?",
+          "options": [
+            "For every x, both P(x) and Q(x) are true",
+            "There exists an x such that P(x) and Q(x) are true",
+            "P(x) and Q(x) are true for some x",
+            "For some x, either P(x) or Q(x) is true"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which of the following is the negation of ∀x (P(x) ∨ Q(x))?",
+          "options": [
+            "∃x ¬(P(x) ∨ Q(x))",
+            "∀x ¬(P(x) ∧ Q(x))",
+            "¬∃x P(x)",
+            "P(x) ∧ Q(x)"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What does ∀x (P(x) ∧ Q(x)) mean?",
+          "options": [
+            "For every x, both P(x) and Q(x) are true",
+            "There exists an x such that P(x) and Q(x) are true",
+            "P(x) and Q(x) are true for some x",
+            "P(x) is true for all x"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following is a valid quantifier?",
+          "options": [
+            "∀",
+            "∧",
+            "→",
+            "↔"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What is a free variable in predicate logic?",
+          "options": [
+            "A variable that has not been quantified",
+            "A variable that has been bound by a quantifier",
+            "A variable with no assigned value",
+            "A variable that is part of a function"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following represents a bound variable in predicate logic?",
+          "options": [
+            "A variable that has not been quantified",
+            "A variable that is part of a conjunction",
+            "A variable that has been quantified by ∃ or ∀",
+            "A variable that is outside the scope of the quantifier"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "What is the scope of a quantifier?",
+          "options": [
+            "The part of the logical statement where the quantifier applies",
+            "The entire logical statement",
+            "The conjunction of variables",
+            "The negation of the statement"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following is a proper bound statement in predicate logic?",
+          "options": [
+            "∀x (P(x))",
+            "P(x) ∧ x",
+            "P(x) → x",
+            "x ∨ P(x)"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following is true about a statement containing both ∃ and ∀ quantifiers?",
+          "options": [
+            "The order of the quantifiers does not matter",
+            "The order of the quantifiers matters",
+            "Quantifiers can only be used with negations",
+            "Only ∀ can follow ∃"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the difference between a predicate and a proposition?",
+          "options": [
+            "A predicate is always true, a proposition is not",
+            "A proposition has a truth value, but a predicate can depend on variables",
+            "A predicate is always false, a proposition is not",
+            "There is no difference"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which of the following is a correct negation of ∃x ∀y P(x, y)?",
+          "options": [
+            "∀x ∃y ¬P(x, y)",
+            "∃x ∀y ¬P(x, y)",
+            "¬∀x ∃y P(x, y)",
+            "¬∃x ∀y P(x, y)"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following is a correct negation of ∀x ∃y P(x, y)?",
+          "options": [
+            "∃x ∀y ¬P(x, y)",
+            "∀x ¬∃y P(x, y)",
+            "¬∃x ∀y P(x, y)",
+            "¬∀x ∃y P(x, y)"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "In which case would a quantifier bind a variable in predicate logic?",
+          "options": [
+            "When it precedes the variable within its scope",
+            "When it follows the variable within its scope",
+            "When the variable is not free",
+            "When the variable is part of a conjunction"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following is a valid logical statement with quantifiers?",
+          "options": [
+            "∀x ∃y (P(x) → Q(y))",
+            "∃x ∧ P(x)",
+            "P(x) ∨ ∀y",
+            "P(x) → ∀x"
+          ],
+          "answer": 1
+        }
+    ]
+  }
+    

@@ -1,0 +1,144 @@
+{
+    "week1_questions": [
+        {
+            "question": "What does Human-Computer Interaction (HCI) encompass, and why is it considered multidisciplinary?",
+            "options": [
+                "It only involves computer programming and interface design",
+                "HCI merges principles from psychology, computer science, and cognitive science to design interactive systems that cater to human needs",
+                "HCI focuses solely on improving the hardware performance of systems",
+                "It is limited to understanding how computers process data"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "Which of the following is NOT typically associated with the study of HCI?",
+            "options": [
+                "Social and cultural factors influencing how people use technology",
+                "User interface design and evaluation",
+                "Understanding how computers communicate over a network",
+                "Psychological aspects that impact user interaction with systems"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "When did HCI emerge as a distinct academic and research field, and what prompted its formalization?",
+            "options": [
+                "1950s, due to the development of early mainframe systems",
+                "1980s, following the rise of personal computing and the need for user-friendly interfaces",
+                "1990s, with the advent of the Internet and online interactions",
+                "2000s, as mobile devices became widely adopted"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "Which of the following best explains the core focus of HCI in modern system design?",
+            "options": [
+                "Hardware development",
+                "Usability and creating systems that are intuitive and accessible for all users",
+                "Designing better networking protocols",
+                "Operating system efficiency"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is User-Centered Design (UCD) and why is it integral to HCI?",
+            "options": [
+                "A process used for hardware design",
+                "An iterative process that puts the needs of users at the forefront of design, continuously incorporating user feedback",
+                "A one-time process focused on system performance",
+                "A design methodology that only considers technical capabilities"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "In the context of UCD, what is the importance of understanding the 'context of use'?",
+            "options": [
+                "It helps detect flaws in system hardware",
+                "It provides crucial insights into the environment, tasks, and user characteristics that the system must support",
+                "It focuses on creating static requirements",
+                "It ensures the system is compatible with all hardware configurations"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "True or False: User-Centered Design (UCD) is a one-time process that concludes once the system is deployed.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the primary focus of UCD, and how does it affect system success?",
+            "options": [
+                "Ensuring high system performance across all devices",
+                "Designing for usability to ensure the system meets the needs and capabilities of a diverse user base",
+                "Minimizing development costs",
+                "Focusing on hardware compatibility to maximize system efficiency"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following represents a missing phase in User-Centered Design (UCD)?",
+            "options": [
+                "Identifying user requirements",
+                "Developing technical solutions",
+                "Deploying the system without feedback",
+                "Evaluating the solution’s usability based on user feedback"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "What is the ultimate goal of User Interface (UI) design in HCI?",
+            "options": [
+                "To make the interface complex and feature-rich",
+                "To create an interface that is invisible to users and free of frustration, allowing them to achieve tasks effortlessly",
+                "To optimize system performance above all else",
+                "To make hardware as accessible as possible"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following types of interfaces does UI design address in HCI?",
+            "options": [
+                "Graphical User Interfaces (GUIs)",
+                "Command-line interfaces",
+                "Voice-controlled interfaces (VUIs)",
+                "All of the above, as UI design spans across multiple interaction paradigms"
+            ],
+            "answer": 4,
+            "isDefinition": true
+        },
+        {
+            "question": "Which of Norman’s principles is most closely aligned with providing clear and immediate feedback for user actions?",
+            "options": [
+                "Visibility",
+                "Feedback",
+                "Consistency",
+                "Affordance"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "True or False: The aesthetics of a UI are always more important to users than its usability.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of Norman’s principles aims to limit user errors by constraining possible actions within the system?",
+            "options": [
+                "Visibility",
+                "Feedback",
+                "Constraints",
+                "Mapping"
+            ],
+            "answer": 3
+        }
+    ]
+}

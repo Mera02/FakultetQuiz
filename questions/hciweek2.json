@@ -1,0 +1,104 @@
+{
+    "week2_questions": [
+        {
+            "question": "What is usability in the context of interactive systems?",
+            "options": [
+                "A measure of system performance",
+                "A measure of how well a user can use a product to achieve a goal",
+                "The study of human-computer languages",
+                "A system's design quality"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following is NOT a component of usability?",
+            "options": [
+                "Efficiency",
+                "Effectiveness",
+                "System security",
+                "Satisfaction"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "What does usability measure?",
+            "options": [
+                "The accuracy of system data",
+                "How well a specific user in a specific context can use a product to achieve a defined goal",
+                "The system's technical complexity",
+                "How long it takes to load a system"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the impact of good usability on user experience?",
+            "options": [
+                "Increases user frustration",
+                "Improves user satisfaction and productivity",
+                "Decreases system performance",
+                "Reduces system security"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which usability principle emphasizes making systems easy to learn?",
+            "options": [
+                "Effectiveness",
+                "Learnability",
+                "Efficiency",
+                "Retention"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following is a usability measure?",
+            "options": [
+                "Task completion time",
+                "System power consumption",
+                "Code complexity",
+                "Hardware integration"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is meant by 'efficiency' in usability?",
+            "options": [
+                "The time taken for a user to complete a task",
+                "The overall cost of a system",
+                "The system's energy consumption",
+                "The number of errors made by a user"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What are some benefits of improving usability?",
+            "options": [
+                "Increased user frustration and system complexity",
+                "Increased user satisfaction, productivity, and competitive advantage",
+                "Decreased system security",
+                "Improved system performance and power efficiency"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following is an example of subjective satisfaction in usability?",
+            "options": [
+                "User feedback collected through interviews and surveys",
+                "Task completion time",
+                "Error rate",
+                "System reliability"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Why is usability important in life-critical systems such as medical equipment and air traffic control?",
+            "options": [
+                "It increases user frustration",
+                "It ensures that users can perform tasks rapidly and without errors",
+                "It reduces training costs",
+                "It allows for lower system reliability"
+            ],
+            "answer": 2
+        }
+    ]
+}

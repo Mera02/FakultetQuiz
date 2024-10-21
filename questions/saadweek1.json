@@ -1,0 +1,466 @@
+{
+    "week1_questions": [
+        {
+            "question": "In the context of SDLC, which of the following would most likely be the consequence of skipping the 'Analysis' phase?",
+            "options": [
+                "Better time management and early delivery",
+                "More flexibility in the design phase",
+                "Unclear system requirements and user dissatisfaction",
+                "Reduced system cost"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "Why is it critical to distinguish between 'systems development methodologies' and 'software development methodologies'?",
+            "options": [
+                "They are two names for the same concept",
+                "System development focuses on hardware integration, while software development focuses on code",
+                "System methodologies emphasize broader organizational impacts and frameworks",
+                "Software methodologies are agile-based only, while systems are more waterfall-focused"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "In a situation where user feedback is unpredictable and subject to frequent changes, which SDLC methodology would be the least effective?",
+            "options": [
+                "Agile",
+                "Waterfall",
+                "Scrum",
+                "Parallel Development"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which of the following SDLC phases is most likely to encounter significant rework if requirements were not correctly captured during the 'Analysis' phase?",
+            "options": [
+                "Implementation",
+                "Testing",
+                "Design",
+                "Maintenance"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which statement best captures the weakness of the Waterfall model in modern iterative development environments?",
+            "options": [
+                "It allows only a single pass through the phases, preventing necessary iterations",
+                "It is too focused on system performance",
+                "It encourages continuous changes to requirements",
+                "It leads to faster project completion than Agile"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "Considering an Agile environment, why would Scrum's short iterations be particularly useful for high-risk projects?",
+            "options": [
+                "It emphasizes frequent deployment of incomplete systems",
+                "It reduces the financial risk by shortening feedback loops and catching issues early",
+                "It focuses on detailed documentation and phase completion",
+                "It allows skipping testing phases when necessary"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "If the objective of a project is to provide an initial working prototype to stakeholders as quickly as possible, which SDLC model would be the most effective and why?",
+            "options": [
+                "Waterfall, because of its emphasis on requirement stability",
+                "Prototyping, because it focuses on early user involvement and refining requirements",
+                "Agile, because of its flexibility to revisit each phase",
+                "Parallel Development, because of concurrent workstreams"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which aspect of Prototyping development is most critical in refining unclear user requirements?",
+            "options": [
+                "System documentation",
+                "Prototyping sessions with limited stakeholder involvement",
+                "User testing of preliminary system models",
+                "Strict adherence to predefined system architecture"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the most significant risk associated with failing to re-evaluate earlier phases in Waterfall-based projects?",
+            "options": [
+                "System will outperform initial benchmarks",
+                "System architecture will be more modular than expected",
+                "Significant design or requirement flaws may only be identified during later stages",
+                "User satisfaction will automatically increase"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "Which phase of the SDLC has the highest potential for long-term cost savings if performed thoroughly and accurately?",
+            "options": [
+                "Planning",
+                "Analysis",
+                "Design",
+                "Maintenance"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "What distinguishes 'Phased Development' from other methodologies, particularly in relation to its delivery schedule?",
+            "options": [
+                "It requires all features to be developed upfront",
+                "It releases the system in multiple versions, each adding functionality incrementally",
+                "It focuses entirely on customer feedback before building anything",
+                "It never proceeds past the prototype phase"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "In the context of Agile methodology, which activity is most likely to occur within a single iteration?",
+            "options": [
+                "Complete system deployment",
+                "Requirement gathering and finalization",
+                "Development, testing, and evaluation of a feature set",
+                "Final system delivery"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "Which SDLC model is most suitable for a project with unclear requirements that may evolve over time?",
+            "options": [
+                "Waterfall",
+                "Prototyping",
+                "Agile",
+                "V-Model"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the primary benefit of using the Agile model over the Waterfall model?",
+            "options": [
+                "Agile ensures faster deployment of systems",
+                "Agile allows continuous user feedback and iterative development",
+                "Agile is less expensive to implement than Waterfall",
+                "Agile requires less documentation than Waterfall"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which type of diagram is most commonly used to model the relationships between system components in the design phase?",
+            "options": [
+                "ER Diagram",
+                "Class Diagram",
+                "Use Case Diagram",
+                "Flowchart"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "In the SDLC, what is the primary focus of the 'Design' phase?",
+            "options": [
+                "Gathering system requirements",
+                "Defining the architecture and components of the system",
+                "Developing the software code",
+                "Testing the system"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the major disadvantage of the Waterfall model?",
+            "options": [
+                "It is too rigid and does not easily allow changes once a phase is completed",
+                "It is too focused on testing",
+                "It focuses too much on documentation",
+                "It has no clear requirements phase"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "In the Agile model, what is a 'sprint'?",
+            "options": [
+                "A short, time-boxed period to complete a set amount of work",
+                "A phase where the system undergoes extensive testing",
+                "The final deployment stage",
+                "A meeting to define requirements"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "Which phase in the SDLC is responsible for fixing issues discovered during user acceptance testing?",
+            "options": [
+                "Maintenance",
+                "Testing",
+                "Development",
+                "Implementation"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the primary focus during the 'Maintenance' phase of the SDLC?",
+            "options": [
+                "Adding new features to the system",
+                "Ensuring the system continues to operate effectively by fixing bugs and making improvements",
+                "Rewriting the system architecture",
+                "Gathering new system requirements"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "What distinguishes the Spiral model from the Waterfall model in the SDLC?",
+            "options": [
+                "The Spiral model focuses on risk analysis and iterative cycles",
+                "The Spiral model is cheaper than Waterfall",
+                "The Spiral model eliminates the need for a design phase",
+                "The Spiral model is linear like Waterfall"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "In a traditional SDLC approach, which phase typically involves creating system specifications based on requirements?",
+            "options": [
+                "Planning",
+                "Analysis",
+                "Design",
+                "Implementation"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "Which of the following best describes the key goal of the 'Planning' phase in SDLC?",
+            "options": [
+                "Developing software architecture",
+                "Gathering detailed requirements from users",
+                "Defining the scope and objectives of the project",
+                "Testing system functionality"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "What is a key benefit of using the Spiral model over the Waterfall model?",
+            "options": [
+                "It allows for continuous user feedback and better risk management",
+                "It reduces project costs significantly",
+                "It eliminates the need for a testing phase",
+                "It focuses on quicker delivery without iterations"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the purpose of the 'Feasibility Study' during the Planning phase?",
+            "options": [
+                "To gather detailed system requirements",
+                "To determine if the project is technically and financially viable",
+                "To design system architecture",
+                "To perform system testing"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which of the following is a major disadvantage of the Spiral model?",
+            "options": [
+                "It has no planning phase",
+                "It is costly due to its emphasis on risk analysis and iterations",
+                "It does not allow for feedback from users",
+                "It does not support complex system development"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the primary focus during the 'Implementation' phase of the SDLC?",
+            "options": [
+                "Testing system functionality",
+                "Developing system code based on design specifications",
+                "Gathering user requirements",
+                "Planning the project"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which of the following SDLC models best supports projects with rapidly changing requirements?",
+            "options": [
+                "Waterfall",
+                "V-Model",
+                "Agile",
+                "Spiral"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the main goal of 'User Acceptance Testing' (UAT) in the SDLC?",
+            "options": [
+                "To verify that the system meets user requirements before deployment",
+                "To ensure the system is free from bugs",
+                "To finalize the project plan",
+                "To gather user feedback during system development"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "Which SDLC model is best suited for small, low-risk projects with stable requirements?",
+            "options": [
+                "Waterfall",
+                "Agile",
+                "Spiral",
+                "Prototyping"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "Which SDLC phase focuses on identifying and fixing errors before system deployment?",
+            "options": [
+                "Planning",
+                "Design",
+                "Testing",
+                "Maintenance"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "In Agile, what is the primary purpose of daily stand-up meetings?",
+            "options": [
+                "To perform code reviews",
+                "To discuss project costs and finances",
+                "To synchronize the team and address blockers quickly",
+                "To plan upcoming system releases"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the key characteristic of the 'V-Model' in SDLC?",
+            "options": [
+                "It emphasizes testing at every phase of development",
+                "It allows for feedback loops and user interaction",
+                "It eliminates the need for documentation",
+                "It is focused on high-level architectural design"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "Which of the following is the main objective of the 'Requirements Gathering' phase?",
+            "options": [
+                "To define system architecture",
+                "To develop the system code",
+                "To identify the needs and expectations of system users",
+                "To test the system"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the primary risk associated with skipping the 'Testing' phase in the SDLC?",
+            "options": [
+                "The system will not meet user requirements",
+                "The project will go over budget",
+                "The system may contain undetected errors",
+                "There will be delays in project planning"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the focus of 'System Design' in SDLC?",
+            "options": [
+                "Creating system architecture and data models",
+                "Writing the system code",
+                "Identifying user requirements",
+                "Deploying the system to production"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the main advantage of using the Prototyping model?",
+            "options": [
+                "It ensures the system is developed faster than Agile",
+                "It allows for early user feedback and requirement refinement",
+                "It focuses on thorough documentation",
+                "It eliminates the need for a Testing phase"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which of the following best describes the 'Maintenance' phase in the SDLC?",
+            "options": [
+                "Monitoring system performance and making necessary updates or fixes",
+                "Deploying the system to users",
+                "Finalizing system documentation",
+                "Writing code for new system features"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "In which SDLC phase would 'Feasibility Study' typically occur?",
+            "options": [
+                "Planning",
+                "Design",
+                "Implementation",
+                "Testing"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        },
+        {
+            "question": "Why is the Agile model more suitable for projects with uncertain or evolving requirements?",
+            "options": [
+                "It focuses on creating extensive documentation",
+                "It allows for continuous iterations and quick adjustments to feedback",
+                "It eliminates the need for testing phases",
+                "It ensures faster delivery without iterations"
+            ],
+            "answer": 1,
+            "isDefinition": true
+        },
+        {
+            "question": "Which SDLC model focuses heavily on risk management and iterative development?",
+            "options": [
+                "Waterfall",
+                "V-Model",
+                "Spiral",
+                "Agile"
+            ],
+            "answer": 2,
+            "isDefinition": true
+        },
+        {
+            "question": "What is the main difference between 'Prototyping' and 'Waterfall' in the SDLC?",
+            "options": [
+                "Prototyping allows for early user feedback, while Waterfall is linear",
+                "Waterfall focuses on small, iterative releases",
+                "Prototyping skips the testing phase",
+                "Waterfall has no requirements phase"
+            ],
+            "answer": 0,
+            "isDefinition": true
+        }
+    ]
+}

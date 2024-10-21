@@ -1,0 +1,274 @@
+{
+    "week2_questions":[
+    {
+      "question": "What is a mathematical proof?",
+      "options": [
+        "A guess or hypothesis",
+        "A logical argument demonstrating the truth of a statement",
+        "An unsolved conjecture",
+        "A set of experimental data"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a direct proof?",
+      "options": [
+        "A proof that assumes the statement is false",
+        "A proof that derives a contradiction",
+        "A proof that proceeds step by step from assumptions to the conclusion",
+        "A proof by mathematical induction"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a proof by contradiction?",
+      "options": [
+        "A proof where you assume the opposite of the statement and derive a contradiction",
+        "A proof that uses examples to prove a statement",
+        "A proof that uses induction to prove a statement",
+        "A proof where you accept the conclusion without any argument"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a valid approach in proof by contradiction?",
+      "options": [
+        "Assume the negation of the conclusion and show it leads to a contradiction",
+        "Assume the conclusion and show it follows directly",
+        "Use an example to prove the statement",
+        "Prove the converse is false"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a counterexample?",
+      "options": [
+        "A proof technique to verify a theorem",
+        "An example that disproves a statement",
+        "An example used to prove a statement",
+        "A specific case that confirms a statement"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following statements can be disproved using a counterexample?",
+      "options": [
+        "All prime numbers are odd",
+        "The square root of 2 is irrational",
+        "There are infinitely many prime numbers",
+        "All even numbers are divisible by 2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the first step in a direct proof?",
+      "options": [
+        "Assume the negation of the conclusion",
+        "Prove the contrapositive",
+        "Assume the premises or hypotheses are true",
+        "Find a counterexample"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is an inductive hypothesis in a proof by induction?",
+      "options": [
+        "An assumption that the statement is true for a specific case",
+        "The conclusion that the statement is false",
+        "A guess about the result of a proof",
+        "An assumption that the statement is false for all cases"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following steps is part of a proof by mathematical induction?",
+      "options": [
+        "Proving the base case",
+        "Assuming the statement is false",
+        "Using a counterexample",
+        "Deriving a contradiction"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the base case in a proof by induction?",
+      "options": [
+        "The smallest case where the statement is true",
+        "The largest case where the statement is false",
+        "A contradiction derived from the assumption",
+        "A specific counterexample"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In a proof by induction, what does the inductive step involve?",
+      "options": [
+        "Assuming the statement is true for a particular case and proving it for the next case",
+        "Using a counterexample to disprove the statement",
+        "Finding an example that proves the statement",
+        "Deriving a contradiction from the assumption"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a proof by exhaustion?",
+      "options": [
+        "A proof that examines every possible case",
+        "A proof that assumes the opposite of the statement",
+        "A proof that uses mathematical induction",
+        "A proof that leads to a contradiction"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an example of a proof technique?",
+      "options": [
+        "Direct proof",
+        "Proof by contradiction",
+        "Mathematical induction",
+        "All of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "What is a proof by contrapositive?",
+      "options": [
+        "A proof where you prove the negation of the conclusion",
+        "A proof where you prove the contrapositive of a statement",
+        "A proof by exhaustion",
+        "A proof using a counterexample"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does a proof by contrapositive prove?",
+      "options": [
+        "It proves ¬q → ¬p when the original statement is p → q",
+        "It proves the direct statement",
+        "It proves p ∨ q",
+        "It disproves the direct statement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an example of a statement that can be proved by mathematical induction?",
+      "options": [
+        "The sum of the first n natural numbers is (n(n + 1)) / 2",
+        "There are infinitely many prime numbers",
+        "The square root of 2 is irrational",
+        "The Pythagorean theorem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a valid step in a proof by induction?",
+      "options": [
+        "Prove the base case is true",
+        "Assume the statement is false",
+        "Find a counterexample",
+        "Use a direct proof"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the purpose of the inductive step in mathematical induction?",
+      "options": [
+        "To verify the base case",
+        "To prove the statement for the next case given it holds for a particular case",
+        "To derive a contradiction",
+        "To find a counterexample"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a key feature of a proof by contradiction?",
+      "options": [
+        "You assume the statement is true",
+        "You assume the statement is false and show it leads to a contradiction",
+        "You use a counterexample to prove the statement",
+        "You prove the contrapositive"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does it mean for a proof to be 'constructive'?",
+      "options": [
+        "It provides a specific example or construction to prove the existence of an object",
+        "It assumes the statement is false",
+        "It uses a counterexample to disprove the statement",
+        "It involves proving a statement by contradiction"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which proof technique involves assuming the opposite of what you want to prove?",
+      "options": [
+        "Proof by contradiction",
+        "Proof by exhaustion",
+        "Direct proof",
+        "Proof by mathematical induction"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of proof proceeds step by step from assumptions to conclusion?",
+      "options": [
+        "Direct proof",
+        "Proof by contradiction",
+        "Proof by counterexample",
+        "Proof by contrapositive"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the first step in a proof by contradiction?",
+      "options": [
+        "Assume the negation of the conclusion",
+        "Prove the base case",
+        "Use a counterexample",
+        "Assume the statement is true"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a proof by cases?",
+      "options": [
+        "A proof where different cases are considered separately",
+        "A proof that uses mathematical induction",
+        "A proof that uses a counterexample",
+        "A proof that leads to a contradiction"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a valid reason for using a proof by cases?",
+      "options": [
+        "When the statement can be divided into multiple cases",
+        "When the statement leads to a contradiction",
+        "When the statement involves induction",
+        "When the statement can be proved by exhaustion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In a proof by induction, what is the inductive step?",
+      "options": [
+        "Assuming the statement is true for a specific case and proving it for the next case",
+        "Assuming the statement is false",
+        "Using a counterexample to disprove the statement",
+        "Deriving a contradiction from the assumption"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the difference between a direct proof and a proof by contradiction?",
+      "options": [
+        "A direct proof assumes the statement is true, while a proof by contradiction assumes the opposite",
+        "A proof by contradiction uses a counterexample",
+        "A direct proof uses mathematical induction",
+        "A proof by contradiction assumes the statement is true"
+      ],
+      "answer": 1
+    }
+  ]
+}

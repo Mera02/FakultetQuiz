@@ -1,0 +1,555 @@
+{
+    "week1_questions": [
+      {
+        "question": "What type of computers are typically used by individuals for personal tasks?",
+        "options": [
+          "Supercomputers",
+          "Servers",
+          "Desktop computers",
+          "Embedded computers"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the role of the CPU in a computer?",
+        "options": [
+          "It handles input and output tasks",
+          "It processes data and controls operations",
+          "It stores long-term data",
+          "It connects the computer to the network"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What defines how software interacts with hardware in a computer system?",
+        "options": [
+          "Application software",
+          "Instruction Set Architecture (ISA)",
+          "System software",
+          "High-Level Language (HLL)"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which language is easier to write and understand?",
+        "options": [
+          "Machine language",
+          "Assembly language",
+          "Binary",
+          "High-Level Language (HLL)"
+        ],
+        "answer": 3,
+        "isDefinition": true
+      },
+      {
+        "question": "What factor can affect the overall performance of a computer program?",
+        "options": [
+          "The keyboard used",
+          "Algorithms and processor speed",
+          "The size of the monitor",
+          "The type of operating system"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What type of memory is faster but more expensive than DRAM?",
+        "options": [
+          "Flash memory",
+          "SRAM",
+          "Hard Disk",
+          "Cache memory"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which component temporarily stores frequently used data?",
+        "options": [
+          "RAM",
+          "Cache memory",
+          "HDD",
+          "SSD"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is Moore’s Law?",
+        "options": [
+          "The rule that the cost of computers halves every year",
+          "The observation that transistor count doubles every two years",
+          "The principle that memory storage grows exponentially",
+          "The theory that computer speed increases linearly with time"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What does the motherboard primarily do in a computer?",
+        "options": [
+          "It stores long-term data",
+          "It houses the CPU, memory, and connectors",
+          "It processes graphics",
+          "It runs the operating system"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the purpose of RAM in a computer?",
+        "options": [
+          "To process network data",
+          "To store data permanently",
+          "To provide temporary storage for running programs",
+          "To control peripheral devices"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which type of computer is built into devices like cars or phones?",
+        "options": [
+          "Desktop computers",
+          "Embedded computers",
+          "Servers",
+          "Datacenters"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the main component responsible for executing instructions in a computer?",
+        "options": [
+          "GPU",
+          "RAM",
+          "CPU",
+          "Power supply"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which type of memory is used for long-term data storage?",
+        "options": [
+          "DRAM",
+          "SRAM",
+          "Cache memory",
+          "SSD"
+        ],
+        "answer": 3,
+        "isDefinition": true
+      },
+      {
+        "question": "What defines the interaction between software and hardware in a system?",
+        "options": [
+          "High-Level Language",
+          "Instruction Set Architecture",
+          "System software",
+          "Application software"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What component allows for temporary high-speed access to data for the CPU?",
+        "options": [
+          "HDD",
+          "RAM",
+          "Cache memory",
+          "SSD"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What slows the progress of Moore’s Law?",
+        "options": [
+          "Increasing physical limitations of technology",
+          "Increasing software complexity",
+          "A shortage of manufacturing materials",
+          "A lack of new computer designs"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which is an example of non-volatile memory?",
+        "options": [
+          "DRAM",
+          "SRAM",
+          "Cache memory",
+          "Flash memory"
+        ],
+        "answer": 3,
+        "isDefinition": true
+      },
+      {
+        "question": "What component handles image and video processing?",
+        "options": [
+          "Power Supply Unit (PSU)",
+          "CPU",
+          "RAM",
+          "Graphics Card (GPU)"
+        ],
+        "answer": 3,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the primary function of the power supply in a computer?",
+        "options": [
+          "To process data",
+          "To convert electricity for use by the components",
+          "To store data permanently",
+          "To run the operating system"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What component is used to connect external devices to the computer?",
+        "options": [
+          "GPU",
+          "USB",
+          "RAM",
+          "CPU"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which type of memory can be erased and rewritten multiple times?",
+        "options": [
+          "Optical memory",
+          "DRAM",
+          "Flash memory",
+          "ROM"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What component powers all other hardware in a computer?",
+        "options": [
+          "RAM",
+          "CPU",
+          "Power Supply Unit (PSU)",
+          "Motherboard"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is a characteristic of a supercomputer?",
+        "options": [
+          "Low power consumption",
+          "Designed for personal use",
+          "High performance for complex computations",
+          "Embedded in portable devices"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which layer of abstraction handles user applications in a computer?",
+        "options": [
+          "Instruction Set Architecture",
+          "System software",
+          "Application software",
+          "Control unit"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which component in a computer directly executes program instructions?",
+        "options": [
+          "GPU",
+          "RAM",
+          "CPU",
+          "SSD"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the primary function of system software?",
+        "options": [
+          "To translate programs into machine language",
+          "To manage hardware and software resources",
+          "To perform arithmetic operations",
+          "To store data permanently"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the key difference between SRAM and DRAM?",
+        "options": [
+          "DRAM is faster than SRAM",
+          "SRAM is more expensive and faster than DRAM",
+          "DRAM is non-volatile while SRAM is volatile",
+          "SRAM is used for permanent storage"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which part of the CPU carries out calculations?",
+        "options": [
+          "Control unit",
+          "RAM",
+          "Arithmetic Logic Unit (ALU)",
+          "Cache"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the primary function of DRAM in a computer?",
+        "options": [
+          "To store data temporarily while programs are running",
+          "To store the operating system permanently",
+          "To perform arithmetic operations",
+          "To connect the CPU to external devices"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which command is used to list all files, including hidden ones, in a directory in Linux?",
+        "options": [
+          "ls",
+          "ls -a",
+          "pwd",
+          "cd"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which Linux command is used to display the current working directory?",
+        "options": [
+          "ls",
+          "cd",
+          "pwd",
+          "rm"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "How do you stop a running command in Linux?",
+        "options": [
+          "Ctrl + D",
+          "Ctrl + C",
+          "Ctrl + Z",
+          "Esc"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which command is used to change the current directory in Linux?",
+        "options": [
+          "ls",
+          "pwd",
+          "cd",
+          "rm"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What does the `man` command do in Linux?",
+        "options": [
+          "Changes file permissions",
+          "Displays the manual for a command",
+          "Moves a file to another directory",
+          "Lists all files in a directory"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which Linux command is used to copy files from one location to another?",
+        "options": [
+          "cp",
+          "mv",
+          "rm",
+          "cat"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the output of the `ls` command in Linux?",
+        "options": [
+          "Lists the contents of the current directory",
+          "Displays the current working directory",
+          "Changes file permissions",
+          "Creates a new directory"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which command is used to remove a file in Linux?",
+        "options": [
+          "rm",
+          "cp",
+          "mv",
+          "ls"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "How do you display the content of a file in the terminal in Linux?",
+        "options": [
+          "mv",
+          "cp",
+          "cat",
+          "ls"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What does the `whatis` command do in Linux?",
+        "options": [
+          "Lists all running processes",
+          "Displays a brief description of a command",
+          "Shows the current working directory",
+          "Edits a file in the terminal"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which Linux command is used to edit a file from the terminal?",
+        "options": [
+          "nano",
+          "rm",
+          "ls",
+          "cp"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "How do you create a new directory in Linux?",
+        "options": [
+          "ls",
+          "mkdir",
+          "rm",
+          "cd"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which command is used to move a file in Linux?",
+        "options": [
+          "mv",
+          "cp",
+          "ls",
+          "cat"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which command is used to find out more about a specific command in Linux?",
+        "options": [
+          "man",
+          "pwd",
+          "mv",
+          "ls -a"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which command is used to save and exit the `nano` text editor in Linux?",
+        "options": [
+          "Ctrl + X",
+          "Ctrl + C",
+          "Ctrl + D",
+          "Ctrl + S"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "How do you clear the terminal screen in Linux?",
+        "options": [
+          "ls -l",
+          "clear",
+          "pwd",
+          "exit"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What does the `touch` command do in Linux?",
+        "options": [
+          "Copies files from one location to another",
+          "Moves files",
+          "Creates a new empty file",
+          "Deletes files"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "Which command lists detailed information about files in a directory in Linux?",
+        "options": [
+          "ls -l",
+          "pwd",
+          "cp",
+          "rm -rf"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "How do you rename a file in Linux?",
+        "options": [
+          "cp",
+          "mv",
+          "ls",
+          "rm"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which Linux command displays the first few lines of a file?",
+        "options": [
+          "tail",
+          "head",
+          "nano",
+          "cat"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which Linux command displays the last few lines of a file?",
+        "options": [
+          "head",
+          "cat",
+          "nano",
+          "tail"
+        ],
+        "answer": 3,
+        "isDefinition": true
+      }
+    ]
+  }
+  

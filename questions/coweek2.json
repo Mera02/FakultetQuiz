@@ -1,0 +1,544 @@
+{
+    "week2_questions": [
+      {
+        "question": "What does the `whoami > selfawareness.txt` command do in Unix?",
+        "options": [
+          "Displays the current username",
+          "Redirects the username to a file",
+          "Changes the username",
+          "Appends the username to a file"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "What is the purpose of the `>>` operator in Unix commands?",
+        "options": [
+          "Overwrites a file with new output",
+          "Appends output to an existing file",
+          "Deletes a file",
+          "Combines two files into one"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "Which logic gate outputs true only if all inputs are true?",
+        "options": [
+          "OR",
+          "AND",
+          "XOR",
+          "NOT"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "What does the `|` operator (pipe) do in Unix?",
+        "options": [
+          "Connects two files",
+          "Passes the output of one command as input to another",
+          "Deletes a file",
+          "Stops the current command"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which logic gate inverts the input signal?",
+        "options": [
+          "AND",
+          "OR",
+          "NOT",
+          "XOR"
+        ],
+        "answer": 2,
+        "isDefinition": false
+      },
+      {
+        "question": "What does `ls -l` display in Unix?",
+        "options": [
+          "List of all users",
+          "Detailed file information including permissions",
+          "Current directory",
+          "Last executed commands"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which Boolean law states that A + 0 = A?",
+        "options": [
+          "Commutative Law",
+          "Identity Law",
+          "Inverse Law",
+          "Null Law"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "In Boolean algebra, what is the result of A AND NOT A?",
+        "options": [
+          "1",
+          "0",
+          "A",
+          "NOT A"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "What does a full adder circuit do?",
+        "options": [
+          "Adds binary numbers and outputs sum and carry-out",
+          "Multiplies two numbers",
+          "Subtracts two binary numbers",
+          "Inverts a binary input"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the purpose of a truth table in digital circuits?",
+        "options": [
+          "Lists all possible input combinations and corresponding output values",
+          "Converts numbers into binary",
+          "Displays the physical layout of a circuit",
+          "Counts the number of logic gates"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "In Unix, what does `pwd` command do?",
+        "options": [
+          "Displays the current directory",
+          "Copies files between directories",
+          "Lists all files in the system",
+          "Changes the working directory"
+        ],
+        "answer": 0,
+        "isDefinition": false
+      },
+      {
+        "question": "Which logic gate outputs true if either input is true?",
+        "options": [
+          "AND",
+          "OR",
+          "XOR",
+          "NOT"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "What is the difference between combinational and sequential circuits?",
+        "options": [
+          "Combinational circuits depend only on the current input",
+          "Sequential circuits store data in memory",
+          "Both a and b",
+          "Neither a nor b"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What does the `gcc -Wall -o hello hello.c` command do?",
+        "options": [
+          "Runs a C program",
+          "Compiles a C program and creates an executable with all warnings enabled",
+          "Deletes the hello.c file",
+          "Lists all C files in the directory"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which Boolean law allows you to simplify A + A = A?",
+        "options": [
+          "Commutative Law",
+          "Inverse Law",
+          "Idempotent Law",
+          "Associative Law"
+        ],
+        "answer": 2,
+        "isDefinition": false
+      },
+      {
+        "question": "Which command is used to stop a running process in Unix?",
+        "options": [
+          "Ctrl + C",
+          "Ctrl + Z",
+          "Ctrl + D",
+          "Ctrl + A"
+        ],
+        "answer": 0,
+        "isDefinition": false
+      },
+      {
+        "question": "What is the purpose of De Morgan's law in Boolean algebra?",
+        "options": [
+          "Converts AND operations into OR operations and vice versa using negation",
+          "Defines how NOT gates work",
+          "Describes how to invert a logic gate",
+          "Explains how a full adder works"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which command shows detailed permissions of files in Unix?",
+        "options": [
+          "chmod",
+          "ls -l",
+          "man",
+          "grep"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "What does the XOR gate output if both inputs are 1?",
+        "options": [
+          "0",
+          "1",
+          "It depends on the context",
+          "There is no output"
+        ],
+        "answer": 0,
+        "isDefinition": false
+      },
+      {
+        "question": "What does the Boolean expression A + (A · B) simplify to?",
+        "options": [
+          "A",
+          "A · B",
+          "A + B",
+          "B"
+        ],
+        "answer": 0,
+        "isDefinition": false
+      },
+      {
+        "question": "What is the purpose of the `|` (pipe) operator in Unix?",
+        "options": [
+          "Joins two files",
+          "Passes output of one command as input to another command",
+          "Stops a command",
+          "Appends output to a file"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which logic gate outputs 1 only when both inputs are different?",
+        "options": [
+          "AND",
+          "XOR",
+          "OR",
+          "NOT"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "In Boolean algebra, what does the expression A + A' (NOT A) equal?",
+        "options": [
+          "A",
+          "1",
+          "0",
+          "B"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "What does the command `ls -a` do in Unix?",
+        "options": [
+          "Lists all files including hidden ones",
+          "Deletes files in the current directory",
+          "Changes file permissions",
+          "Moves files between directories"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is a combination of an AND gate followed by a NOT gate?",
+        "options": [
+          "NOR",
+          "XOR",
+          "NAND",
+          "XNOR"
+        ],
+        "answer": 2,
+        "isDefinition": false
+      },
+      {
+        "question": "What does the `grep` command do in Unix?",
+        "options": [
+          "Searches for a pattern in a file and prints the matching lines",
+          "Displays a list of running processes",
+          "Compiles code into an executable",
+          "Shows the current working directory"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the output of a NOR gate if both inputs are 0?",
+        "options": [
+          "0",
+          "1",
+          "It depends on the circuit",
+          "No output"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "What is the result of A · (A + B) in Boolean algebra?",
+        "options": [
+          "A",
+          "B",
+          "0",
+          "A + B"
+        ],
+        "answer": 0,
+        "isDefinition": false
+      },
+      {
+        "question": "What does the command `wc -l` do in Unix?",
+        "options": [
+          "Counts the number of lines in a file",
+          "Displays the contents of a file",
+          "Changes file permissions",
+          "Lists files in a directory"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is a combinational circuit?",
+        "options": [
+          "A circuit whose output depends only on the current inputs",
+          "A circuit that stores data in memory",
+          "A circuit that performs subtraction",
+          "A circuit that multiplies binary numbers"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which Boolean law is represented by A + AB = A?",
+        "options": [
+          "Identity Law",
+          "Absorption Law",
+          "Inverse Law",
+          "Commutative Law"
+        ],
+        "answer": 1,
+        "isDefinition": false
+      },
+      {
+        "question": "What does the `cd` command do in Unix?",
+        "options": [
+          "Displays the current directory",
+          "Changes the current working directory",
+          "Deletes a file in the directory",
+          "Creates a new directory"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What does the NAND gate output when both inputs are 1?",
+        "options": [
+          "0",
+          "1",
+          "Depends on the logic",
+          "No output"
+        ],
+        "answer": 0,
+        "isDefinition": false
+      },
+      {
+        "question": "Which command shows manual pages for a Unix command?",
+        "options": [
+          "`cat`",
+          "`pwd`",
+          "`man`",
+          "`cp`"
+        ],
+        "answer": 2,
+        "isDefinition": false
+      },
+      {
+        "question": "What is the purpose of De Morgan’s law in simplifying logic expressions?",
+        "options": [
+          "Converts AND operations into OR operations and vice versa",
+          "Describes how to add two binary numbers",
+          "Defines how a NOT gate functions",
+          "Explains the behavior of XOR gates"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the result of the expression A + 0 in Boolean algebra?",
+        "options": [
+          "A",
+          "0",
+          "1",
+          "A + 1"
+        ],
+        "answer": 0,
+        "isDefinition": false
+      },
+      {
+        "question": "Which logic gate outputs true only if all inputs are false?",
+        "options": [
+          "OR",
+          "XOR",
+          "NAND",
+          "NOR"
+        ],
+        "answer": 3,
+        "isDefinition": false
+      },
+      {
+        "question": "What does `chmod 777` do in Unix?",
+        "options": [
+          "Gives read, write, and execute permissions to everyone",
+          "Lists all files and directories",
+          "Deletes a file from the system",
+          "Changes the ownership of a file"
+        ],
+        "answer": 0,
+        "isDefinition": false
+      },
+      {
+        "question": "What is the result of A + A = A in Boolean algebra?",
+        "options": [
+          "0",
+          "1",
+          "A",
+          "A'"
+        ],
+        "answer": 2,
+        "isDefinition": false
+      },
+      {
+        "question": "Which logic gate inverts its input?",
+        "options": [
+          "AND",
+          "OR",
+          "NOT",
+          "XOR"
+        ],
+        "answer": 2,
+        "isDefinition": false
+      },
+      {
+        "question": "What does the `mv` command do in Unix?",
+        "options": [
+          "Moves or renames a file",
+          "Copies a file to another directory",
+          "Deletes a file",
+          "Lists files in the current directory"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "Which gate is known as an inverter in digital logic?",
+        "options": [
+          "AND",
+          "XOR",
+          "OR",
+          "NOT"
+        ],
+        "answer": 3,
+        "isDefinition": false
+      },
+      {
+        "question": "What is the output of A AND A' (NOT A) in Boolean algebra?",
+        "options": [
+          "0",
+          "1",
+          "A",
+          "A'"
+        ],
+        "answer": 0,
+        "isDefinition": false
+      },
+      {
+        "question": "What does the `rm` command do in Unix?",
+        "options": [
+          "Lists files in the current directory",
+          "Removes (deletes) a file or directory",
+          "Renames a file",
+          "Displays the current working directory"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which Boolean law simplifies the expression A(A + B)?",
+        "options": [
+          "Identity Law",
+          "Inverse Law",
+          "Absorption Law",
+          "Commutative Law"
+        ],
+        "answer": 2,
+        "isDefinition": false
+      },
+      {
+        "question": "Which logic gate outputs true only if both inputs are true?",
+        "options": [
+          "OR",
+          "XOR",
+          "AND",
+          "NOR"
+        ],
+        "answer": 2,
+        "isDefinition": false
+      },
+      {
+        "question": "What does the `head` command do in Unix?",
+        "options": [
+          "Shows the first few lines of a file",
+          "Shows the last few lines of a file",
+          "Lists files in the current directory",
+          "Moves a file to another directory"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the result of A + 1 in Boolean algebra?",
+        "options": [
+          "A",
+          "0",
+          "1",
+          "A'"
+        ],
+        "answer": 2,
+        "isDefinition": false
+      },
+      {
+        "question": "Which command shows the last few lines of a file in Unix?",
+        "options": [
+          "head",
+          "tail",
+          "cat",
+          "ls"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      }
+    ]
+  }
+  

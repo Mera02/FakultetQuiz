@@ -1,0 +1,26 @@
+{
+"week1_questions": [
+  {
+    "question": "Koji je ključni princip OOP-a?",
+    "options": ["Encapsulacija", "Rekurzija", "Normalizacija", "Višenitnost"],
+    "answer": 0
+  },
+  {
+    "question": "Šta označava IP adresa?",
+    "options": ["Internet Protocol", "Input Protocol", "Information Packet", "Inline Protocol"],
+    "answer": 0
+  },
+  {
+    "question": "Definicija enkapsulacije u objektno-orijentisanom programiranju?",
+    "options": [
+      "Enkapsulacija je način skrivanja implementacionih detalja objekta i pružanja javnog interfejsa za pristup podacima.",
+      "Enkapsulacija je metod rekurzije koji se koristi za smanjenje složenosti algoritma.",
+      "Enkapsulacija je proces deljenja resursa između različitih niti.",
+      "Enkapsulacija je struktura baze podataka koja se koristi za normalizaciju."
+    ],
+    "answer": 0,
+    "isDefinition": true
+    
+  }
+]
+}

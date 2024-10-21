@@ -1,0 +1,545 @@
+{
+    "week2_questions": [
+      {
+        "question": "What is a router's role in packet transmission?",
+        "options": [
+          "It generates packets",
+          "It directs packets to their destination",
+          "It only receives packets",
+          "It stores packets indefinitely"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What happens to packets when a router’s buffer is full?",
+        "options": [
+          "They are stored for later transmission",
+          "They are dropped",
+          "They are rerouted automatically",
+          "They are merged with other packets"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which of the following is NOT one of the four types of delay in a network?",
+        "options": [
+          "Nodal processing delay",
+          "Queueing delay",
+          "Network delay",
+          "Propagation delay"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What is a bottleneck link in terms of network throughput?",
+        "options": [
+          "The fastest link in the network",
+          "The link that restricts the data transfer rate the most",
+          "A link that handles extra data",
+          "A secondary link used during congestion"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the main difference between circuit switching and packet switching?",
+        "options": [
+          "Circuit switching creates a dedicated path for communication; packet switching does not",
+          "Packet switching guarantees delivery, circuit switching does not",
+          "Circuit switching is faster than packet switching",
+          "Packet switching uses a fixed amount of resources for each connection"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the purpose of the HTTP protocol?",
+        "options": [
+          "To secure data transmission",
+          "To manage routing of packets",
+          "To fetch web pages and data",
+          "To control network congestion"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does the Traceroute tool measure?",
+        "options": [
+          "Data packet size",
+          "Round-trip times for packets traveling between a source and destination",
+          "The number of routers a packet can bypass",
+          "The data throughput rate between two devices"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What happens if the incoming packet rate exceeds the link's capacity?",
+        "options": [
+          "Packets are queued indefinitely",
+          "Throughput increases",
+          "Queueing delay increases and packets may be dropped",
+          "No packets are lost"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "How is throughput related to bottleneck links?",
+        "options": [
+          "Throughput is always determined by the slowest link in the network",
+          "Throughput is unaffected by bottleneck links",
+          "The fastest link determines throughput",
+          "Throughput is based on the average of all link speeds"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "What does propagation delay depend on?",
+        "options": [
+          "The size of the packet",
+          "The distance the signal has to travel and the speed of the transmission medium",
+          "The processing time at each router",
+          "The number of packets sent simultaneously"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What type of delay is most unpredictable in a network?",
+        "options": [
+          "Transmission delay",
+          "Propagation delay",
+          "Queueing delay",
+          "Nodal processing delay"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does a socket represent in network communication?",
+        "options": [
+          "A hardware component in routers",
+          "A software interpretation of a network connection",
+          "A dedicated physical link between two devices",
+          "A method to compress data packets"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "In Traceroute, what is measured by the round-trip times (RTT)?",
+        "options": [
+          "Time taken for a packet to reach a destination and return",
+          "Time taken for the entire file transfer",
+          "Time taken for each router to respond",
+          "Time taken for packets to bypass routers"
+        ],
+        "answer": 0,
+        "isDefinition": true
+      },
+      {
+        "question": "How is average throughput calculated?",
+        "options": [
+          "By dividing file size by round-trip time",
+          "By multiplying the number of routers by the packet size",
+          "By dividing the file size by the time it takes to transfer the data",
+          "By calculating the sum of propagation and transmission delays"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is a bottleneck in a network path?",
+        "options": [
+          "The link with the smallest packet size",
+          "The fastest link in the network",
+          "The link with the lowest transmission rate",
+          "The first router encountered by a packet"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the main purpose of the TCP protocol in data transmission?",
+        "options": [
+          "To encrypt data",
+          "To manage packet routing between routers",
+          "To ensure reliable and ordered delivery of data",
+          "To increase the speed of data transfer"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What does circuit switching provide that packet switching does not?",
+        "options": [
+          "Reliable packet transmission",
+          "A dedicated communication path for the entire session",
+          "Faster data transfer speeds",
+          "Dynamic link sharing"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which layer is responsible for routing packets across multiple hops in a network?",
+        "options": [
+          "Physical Layer",
+          "Application Layer",
+          "Transport Layer",
+          "Network Layer"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What kind of delay depends on the distance a signal must travel?",
+        "options": [
+          "Queueing delay",
+          "Nodal processing delay",
+          "Transmission delay",
+          "Propagation delay"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What happens if packets are sent faster than the bottleneck link’s rate?",
+        "options": [
+          "Packets are delivered in order",
+          "Packets are queued and delayed, or dropped",
+          "Packets bypass the bottleneck link",
+          "Throughput increases"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "What happens to a packet if a router's buffer is full?",
+        "options": [
+          "It is prioritized for immediate transmission",
+          "It is rerouted through a different path",
+          "It is dropped",
+          "It is compressed and delayed"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the key difference between circuit switching and packet switching?",
+        "options": [
+          "Circuit switching requires encryption; packet switching does not",
+          "Circuit switching uses dedicated paths; packet switching shares paths dynamically",
+          "Packet switching is slower than circuit switching",
+          "Circuit switching can only be used in wireless networks"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "Which delay is affected by the length of the physical link?",
+        "options": [
+          "Queueing delay",
+          "Transmission delay",
+          "Propagation delay",
+          "Nodal processing delay"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "How is propagation delay calculated?",
+        "options": [
+          "Distance divided by link transmission rate",
+          "Packet size divided by link bandwidth",
+          "Distance divided by signal speed in the medium",
+          "Total file size divided by round-trip time"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the role of the IP protocol in networking?",
+        "options": [
+          "To manage encryption of data",
+          "To handle error correction",
+          "To route packets to their correct destination",
+          "To manage flow control"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which type of delay is the least predictable in a network?",
+        "options": [
+          "Transmission delay",
+          "Propagation delay",
+          "Nodal processing delay",
+          "Queueing delay"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What does a 'hop' refer to in a packet-switched network?",
+        "options": [
+          "The total distance traveled by a packet",
+          "The number of packets sent in sequence",
+          "A step where a packet moves from one router to another",
+          "The size of a packet"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What layer is responsible for encrypting web traffic using TLS?",
+        "options": [
+          "Network Layer",
+          "Transport Layer",
+          "Application Layer",
+          "Link Layer"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does the term 'bottleneck link' refer to in a network?",
+        "options": [
+          "The fastest link in the network",
+          "The slowest link that limits the overall data transfer speed",
+          "The point where packets are queued before being sent",
+          "The final link to the destination host"
+        ],
+        "answer": 1,
+        "isDefinition": true
+      },
+      {
+        "question": "How does the Traceroute program help network diagnostics?",
+        "options": [
+          "By finding the fastest route between two points",
+          "By measuring the time it takes for packets to be encrypted",
+          "By showing the path and round-trip delays between routers from source to destination",
+          "By calculating the average throughput of a file transfer"
+        ],
+        "answer": 2,
+        "isDefinition": true
+      },
+      {
+        "question": "What is the throughput of a transfer limited by in a network path?",
+        "options": [
+          "The fastest link along the path",
+          "The shortest link along the path",
+          "The bottleneck (slowest) link along the path",
+          "The number of hops between source and destination"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What is the primary function of routers in the network core?",
+        "options": [
+          "To encrypt data",
+          "To forward packets and run routing algorithms",
+          "To manage network applications",
+          "To control access to the internet"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "In what type of switching does each packet wait in a queue at every router?",
+        "options": [
+          "Circuit switching",
+          "Frequency switching",
+          "Packet switching",
+          "Time-division multiplexing"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which protocol is responsible for handling web pages and data uploads?",
+        "options": [
+          "IP",
+          "HTTP",
+          "Ethernet",
+          "TCP"
+        ],
+        "answer": 1
+      },
+      {
+        "week2_questions": [
+          {
+            "question": "What is the purpose of the Transmission Control Protocol (TCP)?",
+            "options": [
+              "To encrypt network traffic",
+              "To handle unreliable data transmission",
+              "To ensure reliable, ordered delivery of a byte stream",
+              "To resolve domain names to IP addresses"
+            ],
+            "answer": 2,
+            "isDefinition": true
+          },
+          {
+            "question": "What is the definition of end-to-end delay?",
+            "options": [
+              "The total delay for a packet traveling from one router to another",
+              "The time a packet takes to travel from the sender to the destination, including all intermediate delays",
+              "The delay introduced only by the transmission medium",
+              "The delay introduced by packet loss"
+            ],
+            "answer": 1,
+            "isDefinition": true
+          },
+          {
+            "question": "Which type of delay is introduced when a router processes a packet, like checking headers and routing tables?",
+            "options": [
+              "Queueing delay",
+              "Propagation delay",
+              "Nodal processing delay",
+              "Transmission delay"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What does Traceroute primarily measure?",
+            "options": [
+              "The encryption speed of packets",
+              "The file transfer rate across a network",
+              "The round-trip delay and path between the source and destination routers",
+              "The download speed of a website"
+            ],
+            "answer": 2,
+            "isDefinition": true
+          },
+          {
+            "question": "In Traceroute output, what does an asterisk (*) represent?",
+            "options": [
+              "The end of the data transmission",
+              "A packet that was dropped or did not return",
+              "The fastest router along the path",
+              "A delay in encryption"
+            ],
+            "answer": 1,
+            "isDefinition": true
+          },
+          {
+            "question": "What determines the average throughput of a file transfer?",
+            "options": [
+              "The number of packets sent per second",
+              "The total file size divided by the time taken to transfer the file",
+              "The distance between the source and the destination",
+              "The number of hops in the network path"
+            ],
+            "answer": 1,
+            "isDefinition": true
+          },
+          {
+            "question": "What happens if the bottleneck link is slower than the other links in a network path?",
+            "options": [
+              "The throughput will be determined by the faster link",
+              "The throughput will be equal to the bottleneck link’s speed",
+              "The throughput will double",
+              "The throughput will be split evenly between all links"
+            ],
+            "answer": 1,
+            "isDefinition": true
+          },
+          {
+            "question": "What is the propagation delay in a network?",
+            "options": [
+              "The time required to push all packet bits onto the link",
+              "The time a packet waits in the router queue",
+              "The time it takes for a signal to travel from one end of the link to the other",
+              "The time it takes for a packet to be retransmitted"
+            ],
+            "answer": 2,
+            "isDefinition": true
+          },
+          {
+            "question": "Which protocol is used to ensure that packets are reliably delivered across the network?",
+            "options": [
+              "HTTP",
+              "IP",
+              "UDP",
+              "TCP"
+            ],
+            "answer": 3
+          },
+          {
+            "question": "What can cause queueing delay in a router?",
+            "options": [
+              "A slow server",
+              "A broken link",
+              "Traffic arriving faster than the router can forward packets",
+              "Distance between routers"
+            ],
+            "answer": 2,
+            "isDefinition": true
+          },
+          {
+            "question": "What does 'circuit switching' imply in a communication network?",
+            "options": [
+              "Packets are sent based on available capacity",
+              "A dedicated path is established between two points for the entire communication duration",
+              "Data is transmitted randomly to any available link",
+              "Packets are prioritized based on size"
+            ],
+            "answer": 1,
+            "isDefinition": true
+          },
+          {
+            "question": "In layered protocols, what does the application layer do?",
+            "options": [
+              "Ensures data is encrypted",
+              "Routes packets through multiple hops",
+              "Handles the end-user applications like email, browsing, and file transfer",
+              "Manages physical data transmission"
+            ],
+            "answer": 2,
+            "isDefinition": true
+          },
+          {
+            "question": "What is the main advantage of packet switching over circuit switching?",
+            "options": [
+              "It guarantees a fixed amount of bandwidth",
+              "It is more efficient at handling bursty traffic",
+              "It reduces the transmission speed",
+              "It avoids packet loss entirely"
+            ],
+            "answer": 1,
+            "isDefinition": true
+          },
+          {
+            "question": "What is the function of the IP protocol in the network?",
+            "options": [
+              "Encrypts packets for secure transmission",
+              "Ensures end-to-end reliable data delivery",
+              "Routes packets to their destination address using best-effort delivery",
+              "Handles hardware communication over Ethernet links"
+            ],
+            "answer": 2,
+            "isDefinition": true
+          },
+          {
+            "question": "What does the term “store-and-forward” in packet switching mean?",
+            "options": [
+              "Routers send packets immediately after receiving them",
+              "Routers temporarily store packets before forwarding them to the next hop",
+              "Packets are stored permanently in the router’s memory",
+              "Data is stored on a server before being forwarded"
+            ],
+            "answer": 1,
+            "isDefinition": true
+          },
+          {
+            "question": "What does the term 'bitrate' refer to in a communication link?",
+            "options": [
+              "The length of the link",
+              "The number of errors in the data transmission",
+              "The speed at which data is transmitted over the link",
+              "The amount of data a router can store"
+            ],
+            "answer": 2,
+            "isDefinition": true
+          }
+        ]
+      }
+      
+    ]
+  }
+  
